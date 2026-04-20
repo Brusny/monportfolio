@@ -1,9 +1,10 @@
 # Portfolio Data – Brusny NDALA
 
-🎓 Master MIAGE – Ingénierie des Données et Analyses  
-📍 Toulouse, France  
-📧 ndalabrusny@gmail.com  
-🔗 LinkedIn : www.linkedin.com/in/brusny-ardesh-ndala-6b7754225
+Bienvenue sur mon portfolio 👋
+
+Je suis Brusny Ardesh NDALA, étudiant en Master MIAGE – Ingénierie des Données et Analyses à Toulouse.
+
+Ce dépôt regroupe plusieurs projets réalisés depuis mon BUT Sciences des Données, illustrant mes compétences en Data Engineering, analyse de données, machine learning et data visualisation.
 
 ---
 
