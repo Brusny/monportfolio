@@ -1,36 +1,24 @@
 title: "Portfolio Data - Brusny Ardesh NDALA"
-description: "Portfolio de projets en Data Engineering, Data Analysis et Machine Learning."
+description: "Portfolio de projets en Data Engineering, Data Analysis et Machine Learning"
 author: "Brusny Ardesh NDALA"
 
 theme: jekyll-theme-cayman
-
 lang: fr
 
-# Informations personnelles
 email: ndalabrusny@gmail.com
-linkedin: https://www.linkedin.com/in/Brusny-Ardesh-NDALA
 github_username: Brusny
+linkedin: https://www.linkedin.com/in/Brusny-Ardesh-NDALA
 
-# SEO
-keywords:
-  - Data Engineering
-  - Data Analysis
-  - Machine Learning
-  - SQL
-  - Python
-  - Business Intelligence
-
-# Paramètres GitHub Pages
 markdown: kramdown
 highlighter: rouge
 
-# Navigation (si tu ajoutes des pages)
 header_pages:
   - index.md
   - projets.md
   - experience.md
+  - competences.md
+  - formation.md
   - contact.md
 
-# Plugins GitHub Pages
 plugins:
   - jekyll-seo-tag
