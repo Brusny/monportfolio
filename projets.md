@@ -5,47 +5,51 @@ title: Projets
 
 # Mes projets
 
-Voici une sélection de projets réalisés durant mon **BUT Sciences des Données et mon Master MIAGE**.
+<div class="projects-grid">
 
----
+<div class="project-card">
 
-## Prédiction d'acceptation de crédit
+<img src="/assets/images/projet-credit-ml.png" alt="Projet Machine Learning">
 
-Projet de machine learning visant à prédire l’acceptation d’un prêt bancaire.
+### Prédiction d’acceptation de crédit
 
-Technologies :
+Modèle de **Machine Learning** permettant de prédire l’acceptation d’un prêt bancaire.
 
-- Python
-- Pandas
-- Scikit-learn
-- XGBoost
+**Technologies :**
+Python · Pandas · Scikit-learn · XGBoost
 
-➡ Voir le projet : /projets/credit-ml
+<a href="/projets/credit-ml">Voir le projet →</a>
 
----
+</div>
 
-## Dashboard RH
+<div class="project-card">
+
+<img src="/assets/images/dashboard-rh.png" alt="Dashboard RH">
+
+### Dashboard RH
 
 Création de tableaux de bord pour analyser les indicateurs RH.
 
-Technologies :
+**Technologies :**
+SQL · SAP BO · DigDash
 
-- SQL
-- SAP BusinessObjects
-- DigDash
+<a href="/projets/dashboard-rh">Voir le projet →</a>
 
-➡ Voir le projet : /projets/dashboard-rh
+</div>
 
----
+<div class="project-card">
 
-## Pipeline de données
+<img src="/assets/images/pipeline-data.png" alt="Pipeline Data">
 
-Conception d’un pipeline ETL pour automatiser le traitement de données.
+### Pipeline de données
 
-Technologies :
+Pipeline ETL pour automatiser l’ingestion et la transformation de données.
 
-- Apache Airflow
-- dbt
-- PostgreSQL
+**Technologies :**
+Airflow · dbt · PostgreSQL
 
-➡ Voir le projet : /projets/pipeline-data
+<a href="/projets/pipeline-data">Voir le projet →</a>
+
+</div>
+
+</div>
