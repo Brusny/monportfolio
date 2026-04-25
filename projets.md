@@ -3,7 +3,7 @@ layout: default
 title: Projets
 ---
 
-<h1>Mes projets</h1>
+# Mes projets
 
 <div class="projects-grid">
 
