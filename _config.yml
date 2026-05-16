@@ -9,6 +9,9 @@ email: ndalabrusny@gmail.com
 github_username: Brusny
 linkedin: https://www.linkedin.com/in/Brusny-Ardesh-NDALA
 
+markdown: kramdown
+highlighter: rouge
+
 header_pages:
   - index.md
   - projets.md
@@ -17,4 +20,5 @@ header_pages:
   - formation.md
   - contact.md
 
-  
+plugins:
+  - jekyll-seo-tag  
