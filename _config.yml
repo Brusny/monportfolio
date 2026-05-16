@@ -8,3 +8,13 @@ lang: fr
 email: ndalabrusny@gmail.com
 github_username: Brusny
 linkedin: https://www.linkedin.com/in/Brusny-Ardesh-NDALA
+
+header_pages:
+  - index.md
+  - projets.md
+  - experience.md
+  - competences.md
+  - formation.md
+  - contact.md
+
+  
