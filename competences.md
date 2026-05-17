@@ -25,19 +25,19 @@ title: Compétences
 ### Data Processing
 - DuckDB
 
-## Data Science
+### Data Science
 
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PySpark, Leafmap, Streamlit, Flask)
 - R (R Shiny)
 
-## Data Visualisation
+### Data Visualisation
 
 - Power BI
 - Tableau
 - DigDash
 - SAP BusinessObjects
 
-## Langage de programmation
+### Langage de programmation
 
 - Java
 - PHP
