@@ -63,7 +63,7 @@ Conception d’un **modèle en étoile (Star Schema)** afin de structurer :
 Création de **tableaux de bord Power BI** permettant :
 
 - l’analyse des **dépenses de la CPAM**
-  ![Rapport Analyse des dépenses](projets/img/tb1.gif)
+  ![Rapport Analyse des dépenses](projets/img/analyse_depense.gif)
 - l’étude du **recours aux soins des patients**
 - l’exploration temporelle et territoriale des remboursements
 
