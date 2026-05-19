@@ -4,7 +4,7 @@ title: Projets
 ---
 [Accueil](index.md) | [Projets](projets.md) | [Expérience](experience.md) | [Compétences](competences.md) | [Formation](formation.md) | [Contact](contact.md)
 
-# Mes projets
+# 📂 Mes projets académiques
 
 Voici une sélection de projets réalisés durant mon **BUT Sciences des Données et mon Master MIAGE**.
 
