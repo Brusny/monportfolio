@@ -88,5 +88,5 @@ Création de **tableaux de bord Power BI** permettant :
 - **Formats utilisés :**
   - Source : `.csv.gz`
   - Analytique : `.parquet`
-
+  ![Réduction de la volumétrie des données](projets/img/reduction_volumetrie.png)
 ➡ Voir le projet : /projets/pipeline-data
