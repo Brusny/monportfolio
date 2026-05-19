@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-# Contact
+# 📫 Contact
 
 📧 Email  
 ndalabrusny@gmail.com
