@@ -55,7 +55,7 @@ Conception d’un **modèle en étoile (Star Schema)** afin de structurer :
   - professionnels de santé
   - actes médicaux
   - temporalité
-
+![Modélisation décisionnelle](projets/img/star_modele.jpg)
 ---
 
 ## Visualisation et analyse
