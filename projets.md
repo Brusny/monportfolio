@@ -30,7 +30,7 @@ Le projet porte sur le **traitement et l’analyse des datasets massifs de rembo
 
 Mise en place d’un **pipeline de données basé sur l’architecture Bronze - Silver - Gold** afin de transformer les données brutes en datasets analytiques optimisés.
 
-![Architecture Bronze Silver Gold](projets/img/analyse_depense.gif)
+![Architecture Bronze Silver Gold](projets/img/architecture_medallion.png)
 
 ---
 
