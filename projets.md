@@ -30,20 +30,7 @@ Le projet porte sur le **traitement et l’analyse des datasets massifs de rembo
 
 Mise en place d’un **pipeline de données basé sur l’architecture Bronze - Silver - Gold** afin de transformer les données brutes en datasets analytiques optimisés.
 
-### Bronze Layer
-- Ingestion des données brutes **Open DAMIR**
-- Format source : `.csv.gz`
-- Stockage des données brutes sans transformation
-
-### Silver Layer
-- Nettoyage et transformation des données
-- Standardisation des formats
-- Filtrage et enrichissement des données
-
-### Gold Layer
-- Création de **datasets analytiques optimisés**
-- Format cible : **`.parquet`**
-- Structuration pour l’analyse décisionnelle
+![Architecture Bronze Silver Gold](projets/img/architecture_medallion.png)
 
 ---
 
