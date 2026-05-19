@@ -4,7 +4,7 @@ title: Expérience
 ---
 [Accueil](index.md) | [Projets](projets.md) | [Expérience](experience.md) | [Compétences](competences.md) | [Formation](formation.md) | [Contact](contact.md)
 
-# Expérience professionnelle
+# 💼 Expérience professionnelle
 
 ## Apprenti Chargé d’analyse et reporting RH  
 Département de l’Isère – Grenoble  
