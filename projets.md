@@ -95,6 +95,39 @@ Création de **tableaux de bord Power BI** permettant :
 
 ---
 
+## Projet Data Integration ETL
+
+📅 **Date :** 2026  
+🏫 **Université :** Université Toulouse Capitole  
+📍 **Lieu :** Toulouse, France  
+
+---
+
+### 🎯 Objectif
+
+Mise en œuvre d’un projet complet de **Data Integration ETL** avec **Talend Open Studio** visant à :
+
+- intégrer plusieurs sources de données hétérogènes,
+- construire un **entrepôt de données (Data Warehouse)**,
+- créer un **magasin de données (Data Mart)**,
+- automatiser les flux ETL,
+- permettre l’analyse décisionnelle via un outil OLAP.
+
+Le projet s’appuie sur deux bases de production Oracle :
+
+- **Production 1** : données commerciales et ventes
+- **Production 2** : données géographiques françaises
+
+---
+
+### 🏗️ Architecture du projet
+
+```text
+Sources Oracle → ETL Talend → Data Warehouse → Data Mart → Analyse OLAP
+```
+
+---
+
 ## Projet Machine Learning – Prédiction d’acceptation de crédit  
 
 📅 **Date :** Mars 2026  
