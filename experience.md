@@ -8,7 +8,7 @@ title: Expérience
 
 ## Apprenti Chargé d’analyse et reporting RH  
 Département de l’Isère – Grenoble  
-2023 – 2025
+*Août 2023 – Septembre 2025*
 
 ### Missions
 
