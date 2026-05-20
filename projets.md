@@ -122,8 +122,8 @@ Le projet s’appuie sur deux bases de production Oracle :
 
 ### 🏗️ Architecture du projet
 
-    ![Modélisation OLAP](projets/projet_data_integration/img/modelisation_olap.png)
-
+  ![Modélisation OLAP](projets/projet_data_integration/img/modelisation_olap.png)
+  
 ---
 
 ## Projet Machine Learning – Prédiction d’acceptation de crédit  
