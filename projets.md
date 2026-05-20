@@ -91,6 +91,8 @@ Création de **tableaux de bord Power BI** permettant :
   - Analytique : `.parquet`
   ![Réduction de la volumétrie des données](projets/img/reduction_volumetrie.png)
 
+---
+
 ## Projet Machine Learning – Prédiction d’acceptation de crédit  
 
 📅 **Date :** Mars 2026  
