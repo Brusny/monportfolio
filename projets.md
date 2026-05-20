@@ -10,15 +10,15 @@ Voici une sélection de projets réalisés durant mon **BUT Sciences des Donnée
 
 ---
 
-# Projet Data – Analyse des données Open DAMIR
-
-**Date :** Avril 2026  
-**Université :** Université Toulouse Capitole  
-**Lieu :** Toulouse, France  
+## Projet Data – Analyse des données Open DAMIR
+  
+📅 **Date :** Avril 2026  
+🏫 **Université :** Université Toulouse Capitole  
+📍 **Lieu :** Toulouse, France  
 
 ---
 
-## Objectif
+### 🎯 Objectif
 
 Mettre en place une **architecture médaillon (Bronze - Silver - Gold)** afin d’optimiser le stockage, la transformation et l’analyse de données de santé à grande échelle.
 
@@ -26,7 +26,7 @@ Le projet porte sur le **traitement et l’analyse des datasets massifs de rembo
 
 ---
 
-## Architecture et pipeline de données
+### 🤖 Architecture et pipeline de données
 
 Mise en place d’un **pipeline de données basé sur l’architecture Bronze - Silver - Gold** afin de transformer les données brutes en datasets analytiques optimisés.
 
@@ -34,15 +34,15 @@ Mise en place d’un **pipeline de données basé sur l’architecture Bronze - 
 
 ---
 
-## Technologies utilisées
+### 🛠️ Technologies utilisées
 
-### DuckDB
+#### DuckDB
 Utilisation de **DuckDB** pour :
 - Stocker localement des datasets volumineux
 - Interroger efficacement les données analytiques
 - Exécuter des transformations SQL sur des fichiers Parquet
 
-### Modélisation des données
+#### Modélisation des données
 Conception d’un **modèle en étoile (Star Schema)** afin de structurer :
 
 - **Tables de faits**
@@ -59,7 +59,7 @@ Conception d’un **modèle en étoile (Star Schema)** afin de structurer :
   ![Modélisation décisionnelle](projets/img/star_modele.jpg)
 ---
 
-## Visualisation et analyse
+### 📊 Visualisation et analyse
 
 Création de **tableaux de bord Power BI** permettant :
 
@@ -73,7 +73,7 @@ Création de **tableaux de bord Power BI** permettant :
 
 ---
 
-## Résultats attendus
+### Résultats attendus
 
 - Pipeline de données reproductible et scalable
 - Amélioration des performances d’analyse sur des datasets massifs
@@ -82,7 +82,7 @@ Création de **tableaux de bord Power BI** permettant :
 
 ---
 
-## Volume de données
+### Volume de données
 
 - **Période analysée :** 2015-05 → 2025-05  
 - **Volume mensuel :** ~200 millions de lignes  
@@ -90,4 +90,71 @@ Création de **tableaux de bord Power BI** permettant :
   - Source : `.csv.gz`
   - Analytique : `.parquet`
   ![Réduction de la volumétrie des données](projets/img/reduction_volumetrie.png)
+
+## Projet Machine Learning – Prédiction d’acceptation de crédit  
+
+📅 **Date :** Mars 2026  
+🏫 **Université :** Université Toulouse Capitole  
+📍 **Lieu :** Toulouse, France  
+
+### 📌 Description
+
+Développement d’un **pipeline de classification** pour prédire l’acceptation de prêts bancaires à partir de **données clients**.
+
+---
+
+### ⚙️ Prétraitement des données
+
+- Encodage des **variables catégorielles**
+- Gestion des **valeurs manquantes**
+- **Standardisation** des variables
+
+---
+
+### 🔎 Sélection des variables
+
+- Utilisation de **Feature Selection** pour identifier les variables les plus pertinentes.
+
+---
+
+### 🤖 Modèles de Machine Learning
+
+Entraînement et comparaison de plusieurs modèles :
+
+- **SVM (Support Vector Machine)**
+- **KNN (K-Nearest Neighbors)**
+- **Régression Logistique**
+- **Decision Tree**
+- **Random Forest**
+- **XGBoost**
+- **MLP (Multi-Layer Perceptron)**
+
+---
+
+### 🎯 Optimisation des hyperparamètres
+
+- Recherche des meilleurs paramètres avec **GridSearchCV**.
+
+---
+
+### 📊 Évaluation des performances
+
+Les modèles sont évalués à l’aide des métriques suivantes :
+
+- **Accuracy**
+- **Precision**
+- **Recall**
+- **F1-score**
+
+---
+
+### 🛠️ Technologies utilisées
+
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Scikit-learn**
+- **XGBoost**
+- **Seaborn**
+
 ➡ Voir le projet : /projets/pipeline-data
