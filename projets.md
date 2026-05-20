@@ -57,6 +57,7 @@ Conception d’un **modèle en étoile (Star Schema)** afin de structurer :
   - temporalité
 
   ![Modélisation décisionnelle](projets/img/star_modele.jpg)
+
 ---
 
 ### 📊 Visualisation et analyse
