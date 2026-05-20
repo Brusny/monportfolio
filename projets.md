@@ -122,9 +122,7 @@ Le projet s’appuie sur deux bases de production Oracle :
 
 ### 🏗️ Architecture du projet
 
-```text
-Sources Oracle → ETL Talend → Data Warehouse → Data Mart → Analyse OLAP
-```
+    ![Modélisation OLAP](projets/projet_data_integration/img/modelisation_olap.png)
 
 ---
 
