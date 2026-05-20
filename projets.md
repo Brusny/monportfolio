@@ -91,7 +91,7 @@ Création de **tableaux de bord Power BI** permettant :
   - Analytique : `.parquet`
   ![Réduction de la volumétrie des données](projets/img/reduction_volumetrie.png)
 
-➡ Voir le projet : [projets/projet_data_engineering/](/projets/projet_data_engineering/)
+➡ Voir le projet : [projets/projet_data_engineering/](https://github.com/Brusny/monportfolio/tree/main/projets/projet_data_engineering)
 
 ---
 
