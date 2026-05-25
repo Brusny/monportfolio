@@ -125,7 +125,7 @@ Le projet s’appuie sur deux bases de production Oracle :
 
   ![Modélisation OLAP](projets/projet_data_integration/img/modelisation_olap.png)
 
-### Mise en place de l’entrepôt de données sous Talend
+### 🗄️ Mise en place de l’entrepôt de données sous Talend
 La préparation de l’entrepôt de données a été réalisée directement dans Talend afin de configurer l’environnement technique et les différents objets nécessaires au projet. Les connexions à la base de données ainsi que les schémas des tables ont été importés dans les métadonnées Talend pour faciliter la création et l’exploitation de l’entrepôt.
     
 La création des tables a été effectuée à l’aide des composants `tCreateTable`. Toutefois, ces composants ne permettant pas la création des clés étrangères, celles-ci ont été ajoutées séparément via des instructions ALTER TABLE exécutées à l’aide des composants `tDBRow` et `tOracleRow`.
@@ -133,6 +133,14 @@ La création des tables a été effectuée à l’aide des composants `tCreateTa
 Les captures d’écran suivantes présentent les différentes configurations et composants utilisés dans Talend pour la mise en place de l’entrepôt de données.
   ![Création DWH](projets/projet_data_integration/img/create_dwh.jpg)
 
+### 🔄 Extraction et alimentation de l’entrepôt de données
+Cette étape consiste à mettre en œuvre les processus d’extraction et de chargement des données sources afin d’alimenter l’entrepôt de données. Les différents jobs Talend ont été développés en respectant l’ordre d’alimentation imposé par les relations entre les tables et les clés étrangères.
+
+Chaque alimentation a été réalisée à l’aide de composants Talend dédiés à l’extraction, à la transformation et au chargement des données, puis vérifiée à l’aide de requêtes de contrôle afin de garantir la cohérence et l’intégrité des données intégrées dans l’entrepôt.
+
+Les captures d’écran suivantes présentent les jobs Talend utilisés pour l’alimentation des différentes tables de l’entrepôt de données.
+  ![Création DTM](projets/projet_data_integration/img/load_dwh.jpg)
+  
 ---
 
 ## Projet Machine Learning – Prédiction d’acceptation de crédit  
