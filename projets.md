@@ -139,7 +139,7 @@ Cette étape consiste à mettre en œuvre les processus d’extraction et de cha
 Chaque alimentation a été réalisée à l’aide de composants Talend dédiés à l’extraction, à la transformation et au chargement des données, puis vérifiée à l’aide de requêtes de contrôle afin de garantir la cohérence et l’intégrité des données intégrées dans l’entrepôt.
 
 Les captures d’écran suivantes présentent les jobs Talend utilisés pour l’alimentation des différentes tables de l’entrepôt de données.
-  ![Création DTM](projets/projet_data_integration/img/load_dwh.jpg)
+  ![Création DWH](projets/projet_data_integration/img/load_dwh.jpg)
 
 ### 🏬 Création et alimentation du magasin de données
 
@@ -148,6 +148,8 @@ Cette partie présente la mise en place du magasin de données à partir de l’
 La table de faits `F_VENTES` centralise les mesures principales, tandis que les tables de dimensions `D_TEMPS`, `D_PRODUITS` et `D_MAGASINS` permettent d’analyser les ventes selon différents axes. Les traitements d’alimentation ont été réalisés sous Talend à l’aide de jobs ETL dédiés à l’extraction, à la transformation et au chargement des données.
 
 Le schéma ci-dessous illustre la structure multidimensionnelle du magasin de données ainsi que les relations entre les différentes dimensions et la table de faits.
+
+  ![Création DTM](projets/projet_data_integration/img/load_dmt.jpg)
 
 ---
 
