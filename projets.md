@@ -131,7 +131,7 @@ La préparation de l’entrepôt de données a été réalisée directement dans
 La création des tables a été effectuée à l’aide des composants `tCreateTable`. Toutefois, ces composants ne permettant pas la création des clés étrangères, celles-ci ont été ajoutées séparément via des instructions ALTER TABLE exécutées à l’aide des composants `tDBRow` et `tOracleRow`.
     
 Les captures d’écran suivantes présentent les différentes configurations et composants utilisés dans Talend pour la mise en place de l’entrepôt de données.
-  ![Création DWH](projets/projet_data_integration/img/create_dw.jpg)
+  ![Création DWH](projets/projet_data_integration/img/create_dwh.jpg)
 
 ---
 
