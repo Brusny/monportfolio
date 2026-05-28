@@ -210,4 +210,4 @@ Les modèles sont évalués à l’aide des métriques suivantes :
 - **XGBoost**
 - **Seaborn**
 
-➡ Voir le projet : /projets/pipeline-data
+➡ Voir le projet : [projets/projet_machine_learning](https://github.com/Brusny/monportfolio/tree/main/projets/projet_machine_learning)
