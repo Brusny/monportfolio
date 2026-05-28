@@ -2,7 +2,7 @@
 
 ## 📌 Présentation du projet
 
-Ce projet a pour objectif de mettre en œuvre une chaîne complète d’intégration de données à l’aide de **Talend Open Studio** et de bases de données **Oracle**.
+> Ce projet a pour objectif de mettre en œuvre une chaîne complète d’intégration de données à l’aide de **Talend Open Studio** et de bases de données **Oracle**.
 
 L’architecture repose sur :
 
@@ -13,11 +13,11 @@ L’architecture repose sur :
 
 Le projet couvre :
 
-✅ L’extraction des données
-✅ Les transformations ETL
-✅ Le chargement dans un Data Warehouse
-✅ La création d’un Data Mart multidimensionnel
-✅ L’automatisation des traitements Talend
+✅ L’extraction des données \
+✅ Les transformations ETL \
+✅ Le chargement dans un Data Warehouse \
+✅ La création d’un Data Mart multidimensionnel \
+✅ L’automatisation des traitements Talend \
 ✅ La documentation des mappings et dictionnaires de données
 
 ---
