@@ -59,7 +59,6 @@ Création de **tableaux de bord Power BI** permettant :
   ![Rapport Analyse des dépenses](projets/img/analyse_depense2.gif)
 - l’étude du **recours aux soins des patients**
   ![Rapport recours aux soins](projets/img/analyse_recours_soins.gif)
-- l’exploration temporelle et territoriale des remboursements
 
 ---
 
