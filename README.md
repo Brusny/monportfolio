@@ -76,37 +76,34 @@ Construire un modèle de classification capable de prédire l’acceptation d’
 ### Étapes du projet
 
 1. Prétraitement des données
-- encodage des variables catégorielles
-- gestion des valeurs manquantes
-- normalisation des variables
+    - encodage des variables catégorielles
+    - gestion des valeurs manquantes
+    - normalisation des variables
 
 2. Feature Engineering
-- sélection des variables pertinentes
+    - sélection des variables pertinentes
 
 3. Entraînement des modèles
-
-Modèles testés :
-
-- Régression Logistique
-- SVM
-- KNN
-- Decision Tree
-- Random Forest
-- XGBoost
-- MLP
+    Modèles testés :
+  
+      - Régression Logistique
+      - SVM
+      - KNN
+      - Decision Tree
+      - Random Forest
+      - XGBoost
+      - MLP
 
 4. Optimisation
-
-- GridSearchCV pour optimiser les hyperparamètres
+    - GridSearchCV pour optimiser les hyperparamètres
 
 5. Évaluation
-
-Métriques utilisées :
-
-- Accuracy
-- Precision
-- Recall
-- F1-score
+    Métriques utilisées :
+  
+    - Accuracy
+    - Precision
+    - Recall
+    - F1-score
 
 ### Technologies
 
