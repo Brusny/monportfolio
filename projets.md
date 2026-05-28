@@ -139,6 +139,8 @@ La table de faits `F_VENTES` centralise les mesures principales, tandis que les 
 Le schéma ci-dessous illustre la structure multidimensionnelle du magasin de données ainsi que les relations entre les différentes dimensions et la table de faits.
 
   ![Création DTM](projets/projet_data_integration/img/load_dmt.jpg)
+➡ Voir le projet : [projets/projet_data_integration](https://github.com/Brusny/monportfolio/tree/main/projets/projet_data_integration)
+
 
 ---
 
