@@ -1,7 +1,5 @@
 # 🚀 Projet d’Intégration de Données — Talend & Oracle
 
-![Talend Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80\&w=1400\&auto=format\&fit=crop)
-
 ## 📌 Présentation du projet
 
 Ce projet a pour objectif de mettre en œuvre une chaîne complète d’intégration de données à l’aide de **Talend Open Studio** et de bases de données **Oracle**.
