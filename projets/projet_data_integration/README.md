@@ -1,4 +1,4 @@
-# 🚀 Projet d’Intégration de Données — Talend & Oracle
+# 🚀 Projet d’Intégration de Données - Talend & Oracle
 
 ## 📌 Présentation du projet
 
