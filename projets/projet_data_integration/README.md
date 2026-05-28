@@ -24,8 +24,6 @@ Le projet couvre :
 
 # 🏗️ Architecture globale
 
-![Architecture Data Integration](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80\&w=1400\&auto=format\&fit=crop)
-
 ```text
              ┌─────────────────┐
              │   PROD1 Oracle  │
@@ -149,8 +147,6 @@ Contient :
 
 # 🏢 Data Warehouse (DW)
 
-![Data Warehouse](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80\&w=1400\&auto=format\&fit=crop)
-
 Le Data Warehouse centralise les données des deux productions.
 
 ## Tables principales
@@ -205,8 +201,6 @@ via jobs Talend automatisés.
 ---
 
 # ⭐ Data Mart multidimensionnel
-
-![OLAP](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80\&w=1400\&auto=format\&fit=crop)
 
 Le magasin de données est construit selon un modèle en étoile.
 
