@@ -45,17 +45,6 @@ Utilisation de **DuckDB** pour :
 #### Modélisation des données
 Conception d’un **modèle en étoile (Star Schema)** afin de structurer :
 
-- **Tables de faits**
-  - remboursements de soins
-  - actes médicaux
-  - dépenses
-
-- **Tables de dimensions**
-  - patients
-  - professionnels de santé
-  - actes médicaux
-  - temporalité
-
   ![Modélisation décisionnelle](projets/img/star_modele.jpg)
 
 ---
