@@ -305,24 +305,6 @@ Fonctionnalités CRUD :
 
 ---
 
-## 🏗️ Architecture du projet
-
-```text id="archiprojet"
-Utilisateur
-     │
-     ▼
-Frontend Leaflet / JavaScript
-     │
-     ▼
-AJAX / PHP
-     │
-     ▼
-PostgreSQL + PostGIS
-     │
-     ▼
-Données spatiales GeoJSON
-```
-
 ---
 
 ## 📂 Organisation du projet
