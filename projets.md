@@ -332,7 +332,6 @@ project/
 │
 ├── index.php
 ├── carte.php
-│
 ├── config/
 ├── includes/
 ├── ajax/
