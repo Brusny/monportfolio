@@ -1,6 +1,6 @@
 # 🌍 Crop Circle Explorer — Application Web SIG Interactive
 
-![Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80\&w=1400\&auto=format\&fit=crop)
+![Page d'accueil](projets/projet_sig_web/img/page_accueil.jpg)
 
 ## 📌 Présentation du projet
 
