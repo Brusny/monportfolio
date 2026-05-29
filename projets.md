@@ -210,3 +210,175 @@ Les modèles sont évalués à l’aide des métriques suivantes :
 - **Seaborn**
 
 ➡ Voir le projet : [projets/projet_machine_learning](https://github.com/Brusny/monportfolio/tree/main/projets/projet_machine_learning)
+
+# 🚀 Projets
+
+## 🌍 Crop Circle Explorer — Application SIG Interactive
+
+![Crop Circle Explorer](https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80\&w=1400\&auto=format\&fit=crop)
+
+### 📌 Description
+
+Crop Circle Explorer est une application web SIG (Système d’Information Géographique) permettant la visualisation interactive de crop circles à travers une carte dynamique basée sur Leaflet et PostGIS.
+
+Le projet a été réalisé dans le cadre de la SAE6.01-SIG du BUT3 VCOD et combine :
+
+* cartographie interactive,
+* gestion de données spatiales,
+* requêtes géographiques,
+* outils d’analyse,
+* interface d’administration.
+
+---
+
+## 🧰 Technologies utilisées
+
+| Technologie | Description                      |
+| ----------- | -------------------------------- |
+| PHP         | Backend de l’application         |
+| PostgreSQL  | Base de données relationnelle    |
+| PostGIS     | Gestion des données spatiales    |
+| Leaflet.js  | Cartographie interactive         |
+| JavaScript  | Interactivité frontend           |
+| AJAX        | Chargement dynamique des données |
+| Bootstrap   | Interface utilisateur responsive |
+| DataTables  | Affichage dynamique des tableaux |
+
+---
+
+## ✨ Fonctionnalités principales
+
+### 🗺️ Carte interactive
+
+* Visualisation des crop circles
+* Gestion des couches cartographiques
+* Navigation fluide sur la carte
+* Affichage GeoJSON dynamique
+
+---
+
+### 🔍 Filtrage des données
+
+* Filtrage des crop circles par année
+* Mise à jour dynamique des résultats
+* Recherche interactive
+
+---
+
+### 🛣️ Création d’itinéraires
+
+L’utilisateur peut :
+
+* définir un point de départ,
+* définir un point d’arrivée,
+* sélectionner plusieurs crop circles,
+* générer un itinéraire sur la carte.
+
+---
+
+### ⭕ Analyse spatiale
+
+Le système permet :
+
+* de générer des zones circulaires,
+* d’analyser les éléments présents dans une zone,
+* d’obtenir des statistiques spatiales.
+
+---
+
+### 📊 Statistiques dynamiques
+
+* Tableaux interactifs avec DataTables
+* Résultats dynamiques
+* Analyse des données cartographiques
+
+---
+
+### 🔐 Interface administrateur
+
+Fonctionnalités CRUD :
+
+* ajout de données,
+* modification,
+* suppression,
+* gestion des tables SIG.
+
+---
+
+## 🏗️ Architecture du projet
+
+```text id="archiprojet"
+Utilisateur
+     │
+     ▼
+Frontend Leaflet / JavaScript
+     │
+     ▼
+AJAX / PHP
+     │
+     ▼
+PostgreSQL + PostGIS
+     │
+     ▼
+Données spatiales GeoJSON
+```
+
+---
+
+## 📂 Organisation du projet
+
+```bash id="structureprojet"
+project/
+│
+├── index.php
+├── carte.php
+│
+├── config/
+├── includes/
+├── ajax/
+├── assets/
+└── sql/
+```
+
+---
+
+## 🎯 Objectifs pédagogiques
+
+Ce projet m’a permis de développer des compétences en :
+
+* développement SIG Web,
+* manipulation de données spatiales,
+* cartographie interactive,
+* requêtes PostGIS,
+* développement AJAX,
+* gestion d’interface administrateur.
+
+---
+
+## 📸 Aperçu du projet
+
+### 🗺️ Carte interactive
+
+![Carte](https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80\&w=1200\&auto=format\&fit=crop)
+
+### 📊 Analyse des données
+
+![Analyse](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80\&w=1200\&auto=format\&fit=crop)
+
+### 🌍 Données géospatiales
+
+![SIG](https://images.unsplash.com/photo-1465447142348-e9952c393450?q=80\&w=1200\&auto=format\&fit=crop)
+
+---
+
+## 👨‍💻 Équipe projet
+
+* Brusny NDALA
+* Arnaud BONNEFOI
+* Danielle TONGUE KANDEU
+
+---
+
+## 📚 Contexte académique
+
+Projet réalisé dans le cadre de la SAE6.01-SIG — BUT3 VCOD.
