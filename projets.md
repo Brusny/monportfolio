@@ -305,8 +305,6 @@ Fonctionnalités CRUD :
 
 ---
 
----
-
 ## 📂 Organisation du projet
 
 ```bash id="structureprojet"
