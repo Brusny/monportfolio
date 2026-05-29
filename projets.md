@@ -305,22 +305,6 @@ Fonctionnalités CRUD :
 
 ---
 
-## 📂 Organisation du projet
-
-```bash id="structureprojet"
-project/
-│
-├── index.php
-├── carte.php
-├── config/
-├── includes/
-├── ajax/
-├── assets/
-└── sql/
-```
-
----
-
 ## 🎯 Objectifs pédagogiques
 
 Ce projet m’a permis de développer des compétences en :
