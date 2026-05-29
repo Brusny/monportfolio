@@ -215,7 +215,7 @@ Les modèles sont évalués à l’aide des métriques suivantes :
 
 ## 🌍 Crop Circle Explorer — Application SIG Interactive
 
-![Crop Circle Explorer](https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80\&w=1400\&auto=format\&fit=crop)
+![Carte](projets/projet_sig_web/img/page_accueil.jpg)
 
 ### 📌 Description
 
@@ -359,23 +359,11 @@ Ce projet m’a permis de développer des compétences en :
 
 ### 🗺️ Carte interactive
 
-![Carte](https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80\&w=1200\&auto=format\&fit=crop)
+![Carte](projets/projet_sig_web/img/carte.gif)
 
-### 📊 Analyse des données
+### 📊 Création itinéraire
 
-![Analyse](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80\&w=1200\&auto=format\&fit=crop)
-
-### 🌍 Données géospatiales
-
-![SIG](https://images.unsplash.com/photo-1465447142348-e9952c393450?q=80\&w=1200\&auto=format\&fit=crop)
-
----
-
-## 👨‍💻 Équipe projet
-
-* Brusny NDALA
-* Arnaud BONNEFOI
-* Danielle TONGUE KANDEU
+![Navigation]()
 
 ---
 
