@@ -232,17 +232,7 @@ Le projet a été réalisé dans le cadre de la SAE6.01-SIG du BUT3 VCOD et comb
 ---
 
 ## 🧰 Technologies utilisées
-
-| Technologie | Description                      |
-| ----------- | -------------------------------- |
-| PHP         | Backend de l’application         |
-| PostgreSQL  | Base de données relationnelle    |
-| PostGIS     | Gestion des données spatiales    |
-| Leaflet.js  | Cartographie interactive         |
-| JavaScript  | Interactivité frontend           |
-| AJAX        | Chargement dynamique des données |
-| Bootstrap   | Interface utilisateur responsive |
-| DataTables  | Affichage dynamique des tableaux |
+![Technologies](projets/projet_sig_web/img/Technologie_web.png)
 
 ---
 
