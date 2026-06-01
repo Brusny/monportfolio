@@ -316,7 +316,7 @@ Ce projet m’a permis de développer des compétences en :
 
 ### 📊 Création itinéraire
 
-![Navigation]()
+![Création d'itinéraire](projets/projet_sig_web/img/itineraire.gif)
 
 ---
 
