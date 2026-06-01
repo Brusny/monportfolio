@@ -264,7 +264,7 @@ L’utilisateur peut :
 
 ---
 
-#### ⭕ Analyse spatiale
+#### 🌍 Analyse spatiale
 
 Le système permet :
 
