@@ -29,59 +29,6 @@ Je recherche une **alternance en Data Engineering à partir de septembre 2026**.
 
 ---
 
-# Projets
-
-## Prédiction d’acceptation de crédit
-
-Projet de **Machine Learning** visant à prédire si un prêt bancaire doit être accepté ou refusé en fonction des caractéristiques des clients.
-
-### Objectif
-
-Construire un modèle de classification capable de prédire l’acceptation d’un crédit.
-
-### Étapes du projet
-
-1. Prétraitement des données
-    - encodage des variables catégorielles
-    - gestion des valeurs manquantes
-    - normalisation des variables
-
-2. Feature Engineering
-    - sélection des variables pertinentes
-
-3. Entraînement des modèles
-    Modèles testés :
-  
-      - Régression Logistique
-      - SVM
-      - KNN
-      - Decision Tree
-      - Random Forest
-      - XGBoost
-      - MLP
-
-4. Optimisation
-    - GridSearchCV pour optimiser les hyperparamètres
-
-5. Évaluation
-    Métriques utilisées :
-  
-    - Accuracy
-    - Precision
-    - Recall
-    - F1-score
-
-### Technologies
-
-Python  
-Pandas  
-NumPy  
-Scikit-learn  
-XGBoost  
-Seaborn
-
----
-
 # Expérience professionnelle
 
 ## Apprenti Chargé d’Analyse et Reporting RH  
