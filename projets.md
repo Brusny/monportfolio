@@ -211,9 +211,7 @@ Les modèles sont évalués à l’aide des métriques suivantes :
 
 ➡ Voir le projet : [projets/projet_machine_learning](https://github.com/Brusny/monportfolio/tree/main/projets/projet_machine_learning)
 
-# 🚀 Projets
-
-## 🌍 Crop Circle Explorer — Application SIG Interactive
+## 🚀 Projets SIG-Web - Crop Circle Explorer
 
 ![Carte](projets/projet_sig_web/img/page_accueil.jpg)
 
@@ -231,14 +229,14 @@ Le projet a été réalisé dans le cadre de la SAE6.01-SIG du BUT3 VCOD et comb
 
 ---
 
-## 🧰 Technologies utilisées
+### 🧰 Technologies utilisées
 ![Technologies](projets/projet_sig_web/img/Technologie_web.png)
 
 ---
 
-## ✨ Fonctionnalités principales
+### ✨ Fonctionnalités principales
 
-### 🗺️ Carte interactive
+#### 🗺️ Carte interactive
 
 * Visualisation des crop circles
 * Gestion des couches cartographiques
@@ -247,7 +245,7 @@ Le projet a été réalisé dans le cadre de la SAE6.01-SIG du BUT3 VCOD et comb
 
 ---
 
-### 🔍 Filtrage des données
+#### 🔍 Filtrage des données
 
 * Filtrage des crop circles par année
 * Mise à jour dynamique des résultats
@@ -255,7 +253,7 @@ Le projet a été réalisé dans le cadre de la SAE6.01-SIG du BUT3 VCOD et comb
 
 ---
 
-### 🛣️ Création d’itinéraires
+#### 🛣️ Création d’itinéraires
 
 L’utilisateur peut :
 
@@ -266,7 +264,7 @@ L’utilisateur peut :
 
 ---
 
-### ⭕ Analyse spatiale
+#### ⭕ Analyse spatiale
 
 Le système permet :
 
@@ -276,7 +274,7 @@ Le système permet :
 
 ---
 
-### 📊 Statistiques dynamiques
+#### 📊 Statistiques dynamiques
 
 * Tableaux interactifs avec DataTables
 * Résultats dynamiques
@@ -284,7 +282,7 @@ Le système permet :
 
 ---
 
-### 🔐 Interface administrateur
+#### 🔐 Interface administrateur
 
 Fonctionnalités CRUD :
 
@@ -295,7 +293,7 @@ Fonctionnalités CRUD :
 
 ---
 
-## 🎯 Objectifs pédagogiques
+### 🎯 Objectifs pédagogiques
 
 Ce projet m’a permis de développer des compétences en :
 
@@ -308,13 +306,13 @@ Ce projet m’a permis de développer des compétences en :
 
 ---
 
-## 📸 Aperçu du projet
+### 📸 Aperçu du projet
 
-### 🗺️ Carte interactive
+#### 🗺️ Carte interactive
 
 ![Carte](projets/projet_sig_web/img/carte.gif)
 
-### 📊 Création itinéraire
+#### 📊 Création itinéraire
 
 ![Création d'itinéraire](projets/projet_sig_web/img/itineraire.gif)
 
