@@ -211,7 +211,7 @@ Les modèles sont évalués à l’aide des métriques suivantes :
 
 ➡ Voir le projet : [projets/projet_machine_learning](https://github.com/Brusny/monportfolio/tree/main/projets/projet_machine_learning)
 
-## 🚀 Projets SIG-Web - Crop Circle Explorer
+## Projets SIG-Web - Crop Circle Explorer
 
 ![Carte](projets/projet_sig_web/img/page_accueil.jpg)
 
