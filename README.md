@@ -2,7 +2,7 @@
 
 Bienvenue sur mon portfolio 👋
 
-Je suis Brusny Ardesh NDALA, étudiant en Master MIAGE – Ingénierie des Données et Analyses à Toulouse.
+Je suis Brusny NDALA, étudiant en Master MIAGE parcours-type Ingénierie des Données et Analyses à Toulouse.
 
 Ce dépôt regroupe plusieurs projets réalisés depuis mon BUT Sciences des Données, illustrant mes compétences en Data Engineering, analyse de données, machine learning et data visualisation.
 
@@ -25,41 +25,7 @@ Je recherche une **alternance en Data Engineering à partir de septembre 2026**.
 
 # Compétences techniques
 
-## Data Engineering
-
-- SQL
-- PostgreSQL
-- Oracle
-- SQL Server
-- ETL : Talend
-- Orchestration : Apache Airflow
-- Modern Data Stack : dbt, DuckDB
-
-## Data Science
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- PySpark
-- XGBoost
-
-## Data Visualisation / BI
-
-- Power BI
-- Tableau
-- DigDash
-- SAP BusinessObjects
-
-## Développement
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Streamlit
-- Flask
-- Leaflet
+![Compétences techniques](projets/img/competences_techniques.png)
 
 ---
 
