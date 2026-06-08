@@ -6,4 +6,4 @@ title: Compétences
 
 # 🛠️ Compétences techniques
 
-  ![Mind Map](projets/img/mind_map.png)
+  ![Mind Map](projets/img/competences_techniques.png)
