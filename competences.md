@@ -8,6 +8,6 @@ title: Compétences
 
   ![Compétences techniques](projets/img/competences_techniques.png)
 
-# 📊 Compétences en Data
+# 📊 Compétences en Data & BI
 
-  ![Compétences en Data](projets/img/mind_map.png)
+  ![Compétences en Data](projets/img/data_bi.png)
