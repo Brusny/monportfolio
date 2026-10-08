@@ -1,0 +1,73 @@
+num_saison;id_role;id_personnage;information
+S01;1;P013;Directrice du cabinet de gestion de crise Olivia Pope & Associés
+S01;17;P016;
+S01;17;P008;
+S01;4;P001;Enquêtrice chez Olivia Pope & Associés
+S01;3;P005;Ancien agent de la CIA
+S01;5;P014;Membre de Olivia Pope & Associés
+S01;7;P007;Président des États-Unis
+S01;9;P003;Chef de cabinet de la Maison-Blanche
+S02;1;P013;Directrice du cabinet de gestion de crise Olivia Pope & Associés
+S02;17;P008;
+S02;5;P014;Membre de Olivia Pope & Associés
+S02;3;P005;Ancien agent de la CIA
+S02;9;P003;Chef de cabinet de la Maison-Blanche
+S02;7;P007;Président des États-Unis
+S02;4;P001;Enquêtrice chez Olivia Pope & Associés
+S02;14;P004;assistant du procureur fédéral
+S02;11;P012;Première dame des États-Unis
+S03;1;P013;Directrice du cabinet de gestion de crise Olivia Pope & Associés
+S03;17;P008;
+S03;15;P010;Agent B613
+S03;4;P001;Enquêtrice chez Olivia Pope & Associés
+S03;5;P014;Membre de Olivia Pope & Associés
+S03;3;P005;Ancien agent de la CIA
+S03;9;P003;Chef de cabinet de la Maison-Blanche
+S03;7;P007;Président des États-Unis
+S03;14;P004;assistant du procureur fédéral
+S03;11;P012;Première dame des États-Unis
+S04;1;P013;Directrice du cabinet de gestion de crise Olivia Pope & Associés
+S04;15;P010;Agent B613
+S04;4;P001;Enquêtrice chez Olivia Pope & Associés
+S04;5;P014;Membre de Olivia Pope & Associés
+S04;3;P005;Ancien agent de la CIA
+S04;9;P003;Chef de cabinet de la Maison-Blanche
+S04;11;P012;Première dame des États-Unis
+S04;7;P007;Président des États-Unis
+S04;14;P004;assistant du procureur fédéral
+S05;1;P013;Directrice du cabinet de gestion de crise Olivia Pope & Associés
+S05;3;P005;Ancien agent de la CIA
+S05;4;P001;Enquêtrice chez Olivia Pope & Associés
+S05;5;P014;Membre de Olivia Pope & Associés
+S05;7;P007;Président des États-Unis
+S05;9;P003;Chef de cabinet de la Maison-Blanche
+S05;12;P012;Sénatrice
+S05;14;P004;assistant du procureur fédéral
+S05;15;P010;Agent B613
+S05;17;P006;
+S05;17;P011;
+S06;2;P013;Chef de cabinet de la présidente Grant
+S06;7;P007;Président des États-Unis
+S06;13;P012;présidente des États-Unis
+S06;15;P010;Agent B613
+S06;9;P003;Chef de cabinet de la Maison-Blanche
+S06;4;P001;Enquêtrice chez Olivia Pope & Associés
+S06;3;P005;Ancien agent de la CIA
+S06;6;P014;Directrice de Quinn Perkins & Associés
+S06;14;P004;assistant du procureur fédéral
+S06;17;P006;
+S06;17;P011;
+S06;16;P015;Commandant du programme B613
+S06;17;P017;
+S07;2;P013;Chef de cabinet de la présidente Grant
+S07;4;P001;Enquêtrice chez Olivia Pope & Associés
+S07;6;P014;Directrice de Quinn Perkins & Associés
+S07;3;P005;Ancien agent de la CIA
+S07;14;P004;assistant du procureur fédéral
+S07;10;P003;Vice-président des États-Unis
+S07;15;P010;Agent B613
+S07;15;P002;Agent B613
+S07;13;P012;présidente des États-Unis
+S07;16;P015;Commandant du programme B613
+S07;8;P007;Ancien président
+S07;17;P011;

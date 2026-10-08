@@ -1,0 +1,373 @@
+num_saison;num_episode;id_pays;nom_episode
+S01;E01;1;Sweet Baby
+S01;E02;1;Dirty Little Secrets
+S01;E03;1;Hell Hath No Fury
+S01;E04;1;Enemy of the State
+S01;E05;1;Crash and Burn
+S01;E06;1;The Trail
+S01;E07;1;Grant: For the People
+S02;E01;1;White Hat’s Off
+S02;E02;1;The Other Woman
+S02;E03;1;Hunting Season
+S02;E04;1;Beltway Unbuckled
+S02;E05;1;All Roads Lead to Fitz
+S02;E06;1;Spies Like Us
+S02;E07;1;Defiance
+S02;E08;1;Happy Birthday, Mr. President
+S02;E09;1;Blown Away
+S02;E10;1;One for the Dog
+S02;E11;1;A Criminal, a Whore, an Idiot and a Liar
+S02;E12;1;Truth or Consequences
+S02;E13;1;Nobody Likes Babies
+S02;E14;1;Whiskey Tango Foxtrot
+S02;E15;1;Boom Goes the Dynamite
+S02;E16;1;Top of the Hour
+S02;E17;1;Snake in the Garden
+S02;E18;1;Molly, You In Danger, Girl
+S02;E19;1;Seven Fifty-Two
+S02;E20;1;A Woman Scorned
+S02;E21;1;Any Questions?
+S02;E22;1;White Hat’s Back On
+S03;E01;1;It’s Handled
+S03;E02;1;Guess Who’s Coming to Dinner
+S03;E03;1;Mrs. Smith Goes to Washington
+S03;E04;1;Say Hello to My Little Friend
+S03;E05;1;More Cattle, Less Bull
+S03;E06;1;Icarus
+S03;E07;1;Everything’s Coming Up Mellie
+S03;E08;1;Vermont is for Lovers, Too
+S03;E09;1;YOLO
+S03;E10;1;A Door Marked Exit
+S03;E11;1;Ride, Sally, Ride
+S03;E12;1;We Do Not Touch the First Ladies
+S03;E13;1;No Sun on the Horizon
+S03;E14;1;Kiss Kiss Bang Bang
+S03;E15;1;Mama Said Knock You Out
+S03;E16;1;The Fluffer
+S03;E17;1;Flesh and Blood
+S03;E18;1;The Price of Free and Fair Election
+S04;E01;1;Randy, Red, Superfreak and Julia
+S04;E02;1;The State of the Union
+S04;E03;1;Inside the Bubble
+S04;E04;1;Like Father, Like Daughter
+S04;E05;1;The Key
+S04;E06;1;An Innocent Man
+S04;E07;1;Baby Made a Mess
+S04;E08;1;The Last Supper
+S04;E09;1;Where the Sun Don’t Shine
+S04;E10;1;Run
+S04;E11;1;Where’s the Black Lady?
+S04;E12;1;Full Circle
+S04;E13;1;No More Blood
+S04;E14;1;The Lawn Chair
+S04;E15;1;The Testimony of Diego Muñoz
+S04;E16;1;It’s Good to Be Kink
+S04;E17;1;Put a Ring On It
+S04;E18;1;Honor Thy Father
+S04;E19;1;I’m Just a Bill
+S04;E20;1;First Lady Sings the Blues
+S04;E21;1;A Few Good Women
+S04;E22;1;You Can’t Take Command
+S05;E01;1;Heavy is the Head
+S05;E02;1;Yes
+S05;E03;1;Paris is Burning
+S05;E04;1;Dog-Whistle Politics
+S05;E05;1;You Got Served
+S05;E06;1;Get Out of Jail, Free
+S05;E07;1;Even the Devil Deserves a Second Chance
+S05;E08;1;Rasputin
+S05;E09;1;Baby, It’s Cold Outside
+S05;E10;1;It’s Hard Out Here for a General
+S05;E11;1;The Candidate
+S05;E12;1;Wild Card
+S05;E13;1;The Fish Rots from the Head
+S05;E14;1;I See You
+S05;E15;1;Pencil’s Down
+S05;E16;1;The Miseducation of Susan Ross
+S05;E17;1;Thwack!
+S05;E18;1;Til Death Do Us Part
+S05;E19;1;Buckle Up
+S05;E20;1;Trump Card
+S05;E21;1;That’s My Girl
+S06;E01;1;Survival of the Fittest
+S06;E02;1;Hardball
+S06;E03;1;Fates Worse Than Death
+S06;E04;1;The Belt
+S06;E05;1;They All Bow Down
+S06;E06;1;Extinction
+S06;E07;1;A Traitor Among Us
+S06;E08;1;A Stomach for Blood
+S06;E09;1;Dead In the Water
+S06;E10;1;The Decision
+S06;E11;1;Trojan Horse
+S06;E12;1;Mercy
+S06;E13;1;The Box
+S06;E14;1;Head Games
+S06;E15;1;Tick Tock
+S06;E16;1;Transfer of Power
+S07;E01;1;Watch Me
+S07;E02;1;Pressing the Flash
+S07;E03;1;Day 101
+S07;E04;1;Lost Girl
+S07;E05;1;Adventures in Babysitting
+S07;E06;1;Vampires and Bloodsuckers
+S07;E07;1;Something Borrowed
+S07;E08;1;Robin
+S07;E09;1;Good People
+S07;E10;1;The People vs. Olivia Pope
+S07;E11;1;Army of One
+S07;E12;1;Allow Me to Reintroduce Myself
+S07;E13;1;Air Force Two
+S07;E14;1;The List
+S07;E15;1;The Noise
+S07;E16;1;People Like Me
+S07;E17;1;Standing in the Sun
+S07;E18;1;Over a Cliff
+S01;E01;2;Mon petit coeur
+S01;E02;2;Secrets d’alcôve
+S01;E03;2;Solidarité féminine
+S01;E04;2;Ruptures
+S01;E05;2;Crash
+S01;E06;2;Jeu de piste
+S01;E07;2;Les femmes du président
+S02;E01;2;Affaire suivante
+S02;E02;2;Double vie
+S02;E03;2;Thorngate
+S02;E04;2;Washington déboutonnée
+S02;E05;2;Tous les chemins mènent à Fitz
+S02;E06;2;Tueur un jour, tueur toujours
+S02;E07;2;Défiance
+S02;E08;2;Happy Birthay, Mr. President
+S02;E09;2;Coup d’état
+S02;E10;2;Résurrection
+S02;E11;2;Conspiratrice, putain, idiote et menteuse
+S02;E12;2;Action ou vérité ?
+S02;E13;2;Juste toi et moi
+S02;E14;2;Double jeu
+S02;E15;2;Filatures
+S02;E16;2;Clause de moralité
+S02;E17;2;Le ver est dans le fruit
+S02;E18;2;Prends garde à toi, Molly
+S02;E19;2;Sept cinquante-deux
+S02;E20;2;Une femme bafouée
+S02;E21;2;Des Questions ?
+S02;E22;2;Le droit chemin
+S03;E01;2;Quand la vérité éclate
+S03;E02;2;Devine qui vient diner?
+S03;E03;2;Madame Smith à Washington
+S03;E04;2;Le petit oiseau va sortir
+S03;E05;2;La vérité sur Remington
+S03;E06;2;Icare
+S03;E07;2;A toi de jouer, Mellie !
+S03;E08;2;Douce campagne
+S03;E09;2;Dangereuse manipulation
+S03;E10;2;Le diable s’en est mêlé
+S03;E11;2;Publius
+S03;E12;2;Scènes de la vie conjugale
+S03;E13;2;Une place au soleil
+S03;E14;2;La pire journée de sa vie
+S03;E15;2;Le coup de grace
+S03;E16;2;L’ambianceuse
+S03;E17;2;Ma chair et mon sang
+S03;E18;2;L’échiquier du pouvoir
+S04;E01;2;Randy, la rouquine, la foldingue et Julie
+S04;E02;2;L’Etat de l’Union
+S04;E03;2;A l’intérieur de la bulle
+S04;E04;2;Tel père, telle fille
+S04;E05;2;La clé
+S04;E06;2;Un homme innocent
+S04;E07;2;Vilain bébé
+S04;E08;2;Dernier dîner
+S04;E09;2;Là où le soleil ne brille pas
+S04;E10;2;Cours !
+S04;E11;2;Où est la dame en noire ?
+S04;E12;2;Le prix à payer
+S04;E13;2;Plus de massacre
+S04;E14;2;Abus de pouvoir
+S04;E15;2;Le testament de Diego Munoz
+S04;E16;2;Femmes libérées
+S04;E17;2;La bague au doigt
+S04;E18;2;Tu honoreras ton père
+S04;E19;2;La loi Brandon
+S04;E20;2;Le blues de la première dame
+S04;E21;2;Quelques femmes bien
+S04;E22;2;On ne peut rien contre le commandant
+S05;E01;2;Lourde est la tête qui porte la couronne
+S05;E02;2;Affirmatif
+S05;E03;2;Paris en flammes
+S05;E04;2;Messages subliminaux
+S05;E05;2;Mademoiselle est servie
+S05;E06;2;Issue de secours
+S05;E07;2;Même le diable mérite une seconde chance
+S05;E08;2;L’interprête
+S05;E09;2;Chérie, il fait froid dehors
+S05;E10;2;Projet mercury
+S05;E11;2;La candidate
+S05;E12;2;En roue libre
+S05;E13;2;Le poisson pourrit toujours par la tête
+S05;E14;2;Je te vois
+S05;E15;2;Posez vos stylos
+S05;E16;2;La mauvaise éducation de Susan Ross
+S05;E17;2;Tchac !
+S05;E18;2;Jusqu’à ce que la mort nous sépare
+S05;E19;2;Attachez vos ceintures
+S05;E20;2;Joker
+S05;E21;2;Bravo, ma fille !
+S06;E01;2;La survie du plus fort
+S06;E02;2;Les grands moyens
+S06;E03;2;Un destin pire que la mort
+S06;E04;2;La ceinture
+S06;E05;2;Courbettes et politesses
+S06;E06;2;Zanzibar
+S06;E07;2;Un traître parmi nous
+S06;E08;2;En avoir ou pas
+S06;E09;2;Un mort dans l’eau
+S06;E10;2;La décision
+S06;E11;2;Le cheval de Troie
+S06;E12;2;Miséricorde
+S06;E13;2;La boîte
+S06;E14;2;Jeu de tête
+S06;E15;2;Tic-Tac
+S06;E16;2;Transfert de pouvoir
+S07;E01;2;Le Monument
+S07;E02;2;Poignée de main
+S07;E03;2;101 jours
+S07;E04;2;Les disparues
+S07;E05;2;Rentre chez toi
+S07;E06;2;Vampires
+S07;E07;2;La roulette russe
+S07;E08;2;Robin
+S07;E09;2;Des gens biens
+S07;E10;2;Le peuple vs Olivia Pope
+S07;E11;2;Seule contre tous
+S07;E12;2;Permettez-moi de me représenter
+S07;E13;2;Air Force Two
+S07;E14;2;La liste
+S07;E15;2;Nuisance sonore
+S07;E16;2;Des gens comme moi
+S07;E17;2;Sous le soleil
+S07;E18;2;Au bord du gouffre
+S01;E01;3;Gladiateurs en costard
+S01;E02;3;Vilains petits secrets
+S01;E03;3;Vengeance de femme
+S01;E04;3;Ennemi d’État
+S01;E05;3;Crash
+S01;E06;3;Juste un instant
+S01;E07;3;Sexe, mensonges et vidéo
+S02;E01;3;Faute de preuves
+S02;E02;3;Aimez-vous les uns les autres
+S02;E03;3;Chasse gardée
+S02;E04;3;Les dessous de Washington
+S02;E05;3;Tous les chemins mènent à Fitz
+S02;E06;3;Espion, es-tu là ?
+S02;E07;3;Les coulisses de la victoire
+S02;E08;3;Happy Birthday, Mr. President
+S02;E09;3;Rendez-vous piégé
+S02;E10;3;Résurrection foudroyante
+S02;E11;3;De père en fils
+S02;E12;3;Action ou vérité ?
+S02;E13;3;Ne me quitte pas
+S02;E14;3;Elle s’appelait Wendy
+S02;E15;3;Un homme à marier
+S02;E16;3;Liaison dangereuse
+S02;E17;3;Pauvre petite fille riche
+S02;E18;3;Haute trahison
+S02;E19;3;Confessions de l’ombre
+S02;E20;3;Tout le monde peut se tromper
+S02;E21;3;Vie privée, vie publique
+S02;E22;3;Passage aux aveux
+S03;E01;3;Quand la vérité éclate
+S03;E02;3;Devine qui vient dîner ?
+S03;E03;3;Madame Smith à Washington
+S03;E04;3;Le petit oiseau va sortir
+S03;E05;3;La vérité sur Remington
+S03;E06;3;Icare
+S03;E07;3;À toi de jouer, Mellie !
+S03;E08;3;Douce campagne
+S03;E09;3;YOLO
+S03;E10;3;Le diable s’en est mêlé
+S03;E11;3;Mustang Sally
+S03;E12;3;On ne touche pas aux premières dames
+S03;E13;3;Pas de soleil à l’horizon
+S03;E14;3;Kiss Kiss Bang Bang
+S03;E15;3;Le coup de grâce
+S03;E16;3;L’ambianceuse
+S03;E17;3;De chair et de sang
+S03;E18;3;Le prix d’une élection libre et loyale
+S04;E01;3;Randy, la rouquine, la foldingue et Julia
+S04;E02;3;L’état de l’Union
+S04;E03;3;À l’intérieur de la bulle
+S04;E04;3;Tel père, telle fille
+S04;E05;3;La clé
+S04;E06;3;Un homme innocent
+S04;E07;3;Vilain bébé
+S04;E08;3;Dernier dîner
+S04;E09;3;Là où le soleil ne brille pas
+S04;E10;3;Cours !
+S04;E11;3;Où est la dame noire ?
+S04;E12;3;Le prix à payer
+S04;E13;3;Plus de massacre
+S04;E14;3;Abus de pouvoir
+S04;E15;3;Le témoignage de Diego Muñoz
+S04;E16;3;Femmes libérées
+S04;E17;3;La bague au doigt
+S04;E18;3;Tu honoreras ton père
+S04;E19;3;La loi Brandon
+S04;E20;3;Le blues de la Première Dame
+S04;E21;3;Quelques femmes bien
+S04;E22;3;On ne peut rien contre le commandant
+S05;E01;3;Lourde est la tête qui porte la couronne
+S05;E02;3;Affirmatif
+S05;E03;3;Paris en flammes
+S05;E04;3;Messages subliminaux
+S05;E05;3;Mademoiselle est servie
+S05;E06;3;Issue de secours
+S05;E07;3;Même le diable mérite une seconde chance
+S05;E08;3;L’interprète
+S05;E09;3;Chérie, il fait froid dehors
+S05;E10;3;Projet mercury
+S05;E11;3;La candidate
+S05;E12;3;En roue libre
+S05;E13;3;Le poisson pourrit toujours par la tête
+S05;E14;3;Je te vois
+S05;E15;3;Posez vos stylos
+S05;E16;3;La mauvaise éducation de Susan Ross
+S05;E17;3;Tchac !
+S05;E18;3;Jusqu’à ce que la mort nous sépare
+S05;E19;3;Attachez vos ceintures
+S05;E20;3;Joker
+S05;E21;3;Bravo, ma fille !
+S06;E01;3;La survie du plus fort
+S06;E02;3;Les grands moyens
+S06;E03;3;Un destin pire que la mort
+S06;E04;3;La ceinture
+S06;E05;3;Courbettes et politesses
+S06;E06;3;Zanzibar
+S06;E07;3;Un traître parmi nous
+S06;E08;3;En avoir ou pas
+S06;E09;3;Un mort dans l’eau
+S06;E10;3;La décision
+S06;E11;3;Le cheval de Troie
+S06;E12;3;Miséricorde
+S06;E13;3;La boîte
+S06;E14;3;Jeu de tête
+S06;E15;3;Tic-Tac
+S06;E16;3;Transfert de pouvoir
+S07;E01;3;Le Monument
+S07;E02;3;Poignée de main
+S07;E03;3;101 jours
+S07;E04;3;Les Disparues
+S07;E05;3;Rentre chez toi
+S07;E06;3;Vampires
+S07;E07;3;La Roulette russe
+S07;E08;3;Robin
+S07;E09;3;Des gens biens
+S07;E10;3;Le Peuple vs. Olivia Pope
+S07;E11;3;Seule contre tous
+S07;E12;3;Permettez-moi de me représenter
+S07;E13;3;Air Force Two
+S07;E14;3;La Liste
+S07;E15;3;Nuisance sonore
+S07;E16;3;Des gens comme moi
+S07;E17;3;Sous le soleil
+S07;E18;3;Au bord du gouffre

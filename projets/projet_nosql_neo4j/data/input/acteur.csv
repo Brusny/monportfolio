@@ -1,0 +1,576 @@
+id_acteur;nom_acteur;prenom_acteur;id_personnage
+A001;Washington;Kerry;P013
+A002;Ian Cusick;Henry;P016
+A003;Short;Columbus;P008
+A004;Stanchfield;Darby;P001
+A006;Lowes;Katie;P014
+A007;Goldwyn;Tony;P007
+A008;Perry;Jeff;P003
+A009;Malina;Joshua;P004
+A010;Young;Bellamy;P012
+A011;Foley;Scott;P010
+A012;de Rossi;Portia;P006
+A013;Smith Jr;Cornelius;P011
+A014;Morton;Joe;P015
+A015;Gilsig;Jessalyn;P017
+A005;Díaz;Guillermo;P005
+A017;Newbern;George;P002
+A018;Malina;Joshua;P132
+A019;Letscher;Matt;P083
+A020;Kennedy;Mimi;P526
+A021;Rasmussen;Bryan;P245
+A022;Cruz;Valerie;P099
+A023;Gallagher;Megan;P113
+A024;Fuller;Amanda;P096
+A025;Williams;JoBeth;P494
+A026;Weil;Liza;P051
+A027;Burton;Kate;P567
+A028;Bucatinsky;Dan;P257
+A029;Grossman;Leslie;P332
+A030;Newbern;George;P104
+A031;Winbush;Troy;P393
+A032;Young;Bellamy;P376
+A033;Hines;Brendan;P213
+A034;Beckel;Graham;P229
+A035;Orser;Leland;P492
+A036;Woglom;Ellen;P238
+A037;Brown;Wes;P538
+A038;Song;Brenda;P048
+A039;Grissom;Chet;P103
+A040;Zuniga;José;P210
+A041;Morales;Gabriel;P186
+A042;Pettie;Darren;P057
+A043;Hinton;Jerrika;P230
+A044;Letscher;Brian;P550
+A045;Leake;Damien;P294
+A046;Getz;John;P414
+A047;Harelik;Mark;P366
+A048;May;Lenora;P424
+A049;Novak;Frank;P362
+A050;Cassidy;Michael;P556
+A051;Westmoreland;Stoney;P228
+A052;Black;Stefanie;P481
+A053;Henry;Gregg;P241
+A054;Mooney;Debra;P566
+A055;Foley;Scott;P253
+A056;Foley;Scott;P253
+A057;Foley;Scott;P253
+A058;Sloyan;Samantha;P265
+A059;Fuller;Kurt;P224
+A060;Amandes;Tom;P222
+A061;Merson;Susan;P297
+A062;Kimmel;Jimmy;P346
+A063;Fischler;Patrick;P066
+A064;Barrowman;John;P547
+A065;Lazarre-White;Adam;P416
+A066;Bostwick;Barry;P082
+A067;Pourfar;Susan;P079
+A068;Armenante;Jillian;P390
+A069;Aldrich;Sarah;P350
+A070;Hines;Grainger;P517
+A071;Lewis;Norm;P515
+A072;Davis;Wendy;P309
+A073;Devar;Sharmila;P318
+A074;W. Bailey;Steven;P402
+A075;Amandes;Tom;P222
+A076;Cochran;Shannon;P071
+A077;Mabius;Eric;P503
+A078;Urbaniak;James;P387
+A079;Strong;Brenda;P282
+A080;Nicole;Jasika;P308
+A081;Collins;Stephen;P450
+A082;Ostrow;Ron;P401
+A083;Stone Mahoney;William;P168
+A084;Farrington;Amy;P544
+A085;Katzman;Bruce;P161
+A086;Cusack;Ann;P122
+A087;Meunier;David;P125
+A088;Page;Sam;P574
+A089;Page Keller;Mary;P540
+A090;Grant Wright;David;P183
+A091;Karnes;Jay;P422
+A092;Bucatinsky;Dan;P257
+A093;Lewis;Norm;P515
+A094;McMurray;Sam;P413
+A095;McGraw;Melinda;P133
+A096;Sommerfield;Jennifer;P546
+A097;C. Stevenson Jr;Charles;P295
+A098;Tovah;Mageina;P391
+A099;Robinson;Wes;P529
+A100;Edelstein;Lisa;P496
+A101;Toussaint;Lorraine;P396
+A102;Parker;Aimee;P063
+A103;Morton;Joe;P486
+A104;W. Bailey;Steven;P402
+A105;McMurray;Sam;P413
+A106;Gordon;Eve;P259
+A107;Hudson;Sarah;P175
+A108;Shapiro;Adam;P276
+A109;Gilliland;Richard;P075
+A110;Patrick McGill;Michael;P117
+A111;Armstrong;Carrie;P277
+A112;Shaffer;Erica;P291
+A113;Bowen;Andrea;P372
+A114;Espinoza;Mark;P101
+A115;Yeager;Biff;P406
+A116;McGregor-Stewart;Kate;P367
+A117;Bloom;Mark;P357
+A118;Agena;Keiko;P089
+A119;Soden;Maura;P443
+A120;Malone;Billy;P577
+A121;Munro;Tessa;P355
+A122;Louise Smith;Virginia;P501
+A123;Waring;Todd;P417
+A124;Wasilewski;Audrey;P047
+A125;Parker-Jones;April;P152
+A126;Brox;Jeanette;P478
+A127;Arrika Ekulona;Saidah;P049
+A128;Pourfar;Susan;P079
+A129;Holt;Joe;P134
+A130;Hurst;Jackson;P516
+A131;M. Korangy;Amir;P427
+A132;Harris;Cantrell;P154
+A133;Mackenzie;Ross;P316
+A134;Booth-Ong;Mirai;P488
+A135;Pat Gleason;Mary;P081
+A136;Lang Johnson;Kate;P269
+A137;Westmoreland;Stoney;P228
+A138;Douglas;Cullen;P537
+A139;Neal;Elise;P061
+A140;Christopher;Jennifer;P111
+A141;Carlson;Mandalynn;P065
+A142;Patrick Mulligan;Brian;P280
+A143;Harris;Marcuis;P475
+A144;Holland;Pilar;P272
+A145;J. Smith;Adam;P163
+A146;Baker;Molly;P444
+A147;Doucette;Jeff;P572
+A148;Anderson;Sam;P377
+A149;Rockwell;Sonia;P557
+A150;Nguyen;VyVy;P244
+A151;Carey;Kristin;P090
+A152;Carreras;Jordan;P262
+A153;Torres;Liz;P185
+A154;Mackenzie;Peter;P086
+A155;Austin;Phil;P120
+A156;Halligan;Tim;P296
+A157;Badie;Mina;P258
+A158;Murphy;Betty;P190
+A159;Markle;Jeffrey;P315
+A160;Allen;Tyrees;P160
+A161;Bravo;Duncan;P162
+A162;Sloyan;Samantha;P265
+A163;Lindquist;Kristin;P485
+A164;Yu;Martin;P530
+A165;Voss;Suzanne;P483
+A166;Tennor;Adria;P087
+A167;Danielle Smith;Kendra;P074
+A168;McCarthy;Roderick;P130
+A169;McCormack;Patty;P064
+A170;Walcott;Dinora;P097
+A171;Dandashy;Sarah;P097
+A172;Montesinos;Roberto;P274
+A173;Sellon-Wright;Keith;P204
+A174;Ross;Chelcie;P234
+A175;London;Jason;P532
+A176;Burton;Kate;P567
+A177;Asher;Vanya;P176
+A178;Boniadi;Nazanin;P019
+A179;Adelstein;Paul;P325
+A180;Peo;Jennifer;P563
+A181;Kudrow;Lisa;P137
+A182;Kudrow;Lisa;P137
+A183;Minnette;Dylan;P275
+A184;Amandes;Tom;P222
+A185;Stevenson;Cynthia;P369
+A186;Garrity;Jim;P473
+A187;Ham;Eben;P545
+A188;Adelstein;Paul;P325
+A189;Scotti;Aaron;P030
+A190;Carroll;Madeline;P301
+A191;Moses;Mark;P135
+A192;Dixon;Dar;P250
+A193;Lewis;Norm;P515
+A194;Alexander;Khandi;P371
+A195;Coleman;Jack;P131
+A196;Tenney;Jon;P217
+A197;Scotti;Aaron;P030
+A198;Shahidi;Yara;P410
+A199;Hudson;Ernie;P447
+A200;Hardin;Melora;P528
+A201;Roché;Sebastian;P153
+A202;Cho;Julia;P527
+A203;St. Esprit;Patrick;P419
+A204;Astin;Mackenzie;P428
+A205;Newnham;Eric;P533
+A206;Cionni;Meg;P053
+A207;Fabian;Patrick;P512
+A208;Treadwell;Taylor;P285
+A209;Pressman;Sally;P092
+A210;Sloyan;Samantha;P265
+A211;Burch;Adam;P285
+A212;Blevins;Cory;P155
+A213;Dias;Romi;P392
+A214;Jung;Greta;P439
+A215;Chambers;Erin;P356
+A216;McCreary;Kelly;P114
+A217;Ford Green;Brandon;P268
+A218;Brogger;Ivar;P149
+A219;B. Silver;Michael;P206
+A220;Totty;Mark;P143
+A221;Mann;Aarti;P035
+A222;Michael Morgan;Scott;P314
+A223;Geffner;Deborah;P108
+A224;W. Levy;Barry;P029
+A225;Guzman;Jack;P024
+A226;Goglia;Juliette;P348
+A227;Skelton;Stewart;P151
+A228;Shahidi;Yara;P410
+A229;Stamile;Lauren;P095
+A230;Stamile;Lauren;P095
+A231;Rios;Reece;P292
+A232;Ostrow;Ron;P401
+A233;Holden;Peter;P575
+A234;Lowman;Rebecca;P331
+A235;Benoit;Sarah;P157
+A236;Mirabal;Ray;P477
+A237;Hiett;Deb;P426
+A238;Kostrey;Johnny;P420
+A239;Reeves;Teri;P303
+A240;Devar;Sharlima;P319
+A241;Murray;Christopher;P159
+A242;C. Mahon;Michael;P084
+A243;Vongtama;Roy;P285
+A244;Drummond;Cindy;P363
+A245;W. Levy;Barry;P029
+A246;S. Murphy;Harry;P351
+A247;Elayne Gibbs;Angela;P298
+A248;Armstrong;Wes;P110
+A249;Rayne;Danielle;P167
+A250;Lewis;Kimrie;P334
+A251;Rota;Carlo;P252
+A252;McCarthy;Roderick;P130
+A253;McWilliams;Robin;P329
+A254;Mansell;Carol;P359
+A255;Ann Leveridge;Lynn;P323
+A256;Morales;Brandon;P024
+A257;Ross;Randy;P088
+A258;Crawford;Thomas;P320
+A259;Akune;Shuko;P138
+A260;Zinn;Harry;P285
+A261;Fogarty;Heather;P236
+A262;Petrov;Alexei;P539
+A263;Dulaney;Ashley;P067
+A264;Pingle;Hilary;P498
+A265;Gonzalez;Liz;P306
+A266;Cinelu;Angelique;P361
+A267;Todd;Johnny;P336
+A268;Grant Wright;David;P183
+A269;de Rossi;Portia;P170
+A270;Letscher;Brian;P550
+A271;Walcott;Dinora;P097
+A272;Black;Stefanie;P481
+A273;Jones;Asante;P364
+A274;Butler Harner;Jason;P246
+A275;Arnold;Boo;P283
+A276;Bowles;Lauren;P233
+A277;Tenney;Jon;P217
+A278;Pebdani;Artemis;P541
+A279;Gary;Treisa;P251
+A280;Beasor;Terrence;P531
+A281;Ketsios;George;P385
+A282;Del Negro;Matthew;P383
+A283;J. White;Brian;P198
+A284;Donella;Chad;P226
+A285;Baker;Robert;P411
+A286;Lifford;Tina;P342
+A287;Andrews;David;P211
+A288;Grier;Myles;P173
+A289;de Rossi;Portia;P170
+A290;Byrd;Dan;P570
+A291;Walger;Sonya;P305
+A292;Reed;Rondi;P370
+A293;Jackson;Jay;P388
+A294;Alizada;Layla;P188
+A295;Dunham;Lena;P542
+A296;Gibbs;Marla;P483
+A297;Bennett;Fran;P340
+A298;Morshower;Glenn;P055
+A299;Ransom;Tim;P273
+A300;Garcia (IV);Phillip;P386
+A301;Rios;Emily;P172
+A302;Rees Snell;David;P034
+A303;Bergl;Emily;P260
+A304;Crandall;Kimberly;P360
+A305;Mouser;Mary;P301
+A306;B. Vance;Courtney;P115
+A307;Randall;Josh;P256
+A308;Bochner;Hart;P352
+A309;McCormack;Mary;P335
+A310;Arellano;Carlos;P022
+A311;M. Brown;Garrett;P569
+A312;Nandi;Ivo;P310
+A313;Baker;Molly;P444
+A314;Santiago;Susan;P482
+A315;Alper;Eugene;P247
+A316;Brandt;Mac;P123
+A317;Flynn;Miriam;P394
+A318;Price-Francis;Amy;P395
+A319;Tuck;Jessica;P535
+A320;Bofshever;Michael;P518
+A321;Ian Cusick;Henry;P536
+A322;Ayad;Laila;P105
+A323;Secor;Kyle;P127
+A324;Coleman;Kelen;P303
+A325;Belfi;Jordan;P400
+A326;Bess;Daniel;P479
+A327;Fitts;Rick;P514
+A328;Smith Jr;Cornelius;P358
+A329;Viscuso;Sal;P116
+A330;Perkins;Ron;P240
+A331;Rios;Reece;P292
+A332;Burton;Kate;P567
+A333;Chavira;Ricardo;P195
+A334;Astin;Mackenzie;P428
+A335;Abdoo;Rose;P521
+A336;Pino;Danny;P045
+A337;Potts;Annie;P341
+A338;Carter;Joelle;P564
+A339;Ambegaokar;Amrapali;P461
+A340;Ayad;Laila;P105
+A341;Maestro;Mia;P169
+A342;Babcock;Ryan;P140
+A343;Brener;Josh;P207
+A344;Sagal;McNally;P209
+A345;Sheik;Sammy;P397
+A346;Molloy;Dearbhla;P451
+A347;Lewis;Kimrie;P334
+A348;Gish;Annabeth;P330
+A349;Rosemont;Romy;P415
+A350;Claire;Julie;P194
+A351;Baxter;Jennifer;P080
+A352;Russ;William;P196
+A353;Fergus;Adam;P436
+A354;Jones;Asante;P364
+A355;Riedy;Matt;P534
+A356;Nurse;Jess;P053
+A357;Lynch;Braden;P573
+A358;White (II);Brian;P198
+A359;Fraser;Beth;P121
+A360;Crosby;Denise;P261
+A361;Canavan;Michael;P474
+A362;Bowen;Hilty;P437
+A363;Betts;Jaden;P262
+A364;Javier Cardenas;Juan;P020
+A365;Labyorteaux;Patrick;P158
+A366;Cobb;Kate;P232
+A367;Baker-Bernard;Sharisse;P050
+A368;Meir;Mark;P467
+A369;Lee;Raymond;P399
+A370;Rivas;Geoffrey;P094
+A371;Prosky;John;P508
+A372;Mitchell;Delaina;P463
+A373;Rios;Reece;P292
+A374;Ashworth;Kevin;P128
+A375;Koo;Brenda;P368
+A376;Kimmel;Jimmy;P346
+A377;Montague;Emily;P270
+A378;Moyano;Liliana;P460
+A379;Riedy;Matt;P534
+A380;Muthu;Sharon;P430
+A381;Phillips;Tiffany;P059
+A382;Sharma;Shaan;P056
+A383;John Armstrong;Matthew;P480
+A384;Shaw;Sheila;P522
+A385;Broderick;Scott;P225
+A386;Camacho;Marilyn;P382
+A387;Mirto;Elyse;P495
+A388;Holaway;Meeghan;P326
+A389;Lewis;Kimrie;P334
+A390;Ambegaokar;Amrapali;P461
+A391;Doumit;Claudia;P042
+A392;Tompkins;Jamie;P187
+A393;Gabler;Joe;P042
+A394;Downing;J.;P218
+A395;Hernandez (III);Ivan;P497
+A396;Canfield;Jared;P039
+A397;Turner;Stacey;P112
+A398;Leigh Cobb;Amanda;P405
+A399;Cale Peterson;Amy;P444
+A400;Alan Smith;Scott;P216
+A401;Missick;Simone;P425
+A402;Wolfe;Christopher;P455
+A403;Walia;Paull;P452
+A404;Camp;Jonathan;P038
+A405;Bashey;Ismail;P435
+A406;DeMarco;Robin;P442
+A407;Grove;Christopher;P571
+A408;Washnevsky;Alain;P182
+A409;Shah;Amol;P453
+A410;Zinn;Harry;P285
+A411;Armstrong;Jack;P509
+A412;Poindexter;Jeris;P200
+A413;Oyoung;Stephen;P036
+A414;Higuchi;Kerri;P328
+A415;Oliver;Bruno;P408
+A416;Edmundson;Kandiss;P543
+A417;Mizota;Diane;P455
+A418;McClung;Shannon;P500
+A419;Riotto;Gary;P389
+A420;Zara;Melody;P555
+A421;J. Yeend;Adam;P470
+A422;Cutaran;Samantha;P293
+A423;Carlen;Catherine;P220
+A424;Holland Pennell;Amy;P174
+A425;Mizota;Diane;P455
+A426;Jordan;Derwin;P290
+A427;Gunderson;Katie;P332
+A428;Bakhtiari;Bobak;P553
+A429;Flanders;Chris;P438
+A430;Muthu;Sharon;P430
+A431;Thorne (II);Robert;P203
+A432;Riley Stewart;Meredith;P129
+A433;Simpson;Doug;P181
+A434;Fazel;Alexander;P554
+A435;Trumbull;Alison;P044
+A436;Asadi;John;P141
+A437;Doolittle;Jenna;P248
+A438;T. Sala;Mary;P180
+A439;Smith;Kimleigh;P177
+A440;Torabi;Mershad;P499
+A441;James Gage;Edward;P523
+A442;Fair;Mel;P457
+A443;Brister;Julie;P178
+A444;Naderi;Bobby;P107
+A445;Bentley;Kenajuan;P021
+A446;Greenwell;Stacie;P179
+A447;Parks;Monica;P248
+A448;Dixon;Dar;P250
+A449;Norwood;Paul;P504
+A450;Benson;Kari;P279
+A451;Adams;Tacey;P506
+A452;Hughes;Lorenzo;P171
+A453;Adolfo;Gustavo;P449
+A454;Chavira;Ricardo;P195
+A455;Sengbloh;Saycon;P060
+A456;Butler;Kate;P147
+A457;Ambegaokar;Amrapali;P461
+A458;Kurtz;Chelsea;P271
+A459;Warshofsky;David;P548
+A460;Chavira;Ricardo;P195
+A461;Neidhardt;Phoebe;P374
+A462;Hill;Melanie;P487
+A463;Ames;Tasha;P312
+A464;De Silvas;Marcos;P379
+A465;Pinkins;Tonya;P493
+A466;Ritter;Eric;P312
+A467;Phillips;Derek;P212
+A468;Sullivan;Larry;P398
+A469;Gilsig;Jessalyn;P561
+A470;D. Goins;Jesse;P299
+A471;Samman;Ayman;P142
+A472;Johnson;Shane;P156
+A473;DeMetrick;Linda;P519
+A474;Perry;Zoe;P490
+A475;Carryl;June;P560
+A476;Amter;Alice;P149
+A477;Denman;Chance;P307
+A478;Lifford;Tina;P342
+A479;Arthur;Michelle;P519
+A480;Edwards;Monique;P378
+A481;Lewis;Kimrie;P334
+A482;Taylor;Kacey;P166
+A483;Riordan;Tom;P558
+A484;Santiago;Tessie;P347
+A485;Harper;Yarett;P322
+A486;Erneta;GiGi;P380
+A487;Conti;Joe;P321
+A488;Stafford;Nancy;P085
+A489;Henning;Richard;P381
+A490;Pace;Dominic;P018
+A491;Lee Ames;John;P327
+A492;R. Shepard Sr.;Duane;P100
+A493;Luis Bustamante;Hector;P354
+A494;Radpour;Ardeshir;P559
+A495;Butler;Kate;P147
+A496;Odom;Lorrie;P235
+A497;Warshofsky;David;P548
+A498;Hart;Jody;P024
+A499;E. Carbajal;Hugo;P139
+A500;Gelfand;Katrina;P317
+A501;Muto;Chris;P423
+A502;Castillo;Hermie;P184
+A503;Sweeney;Jack;P069
+A504;Kramer;Steve;P243
+A505;Hice;Whitney;P230
+A506;O'Neill;Michael;P338
+A507;Hernandez;Jay;P126
+A508;Toub;Shaun;P052
+A509;Thomas Brown;Casey;P552
+A510;Davis;Viola;P062
+A511;Kim;Chase;P510
+A512;Montano;Sumalee;P072
+A514;Tahir;Faran;P434
+A515;Pfeiffer;Solea;P375
+A516;Gilsig;Jessalyn;P561
+A517;Black;Marley;P076
+A518;Ali Rajah;Dalila;P109
+A519;Iizuka;Ayumi;P373
+A520;True;Tim;P365
+A521;Naomi King;Aja;P384
+A522;Norris;Dean;P189
+A523;Boyce;Rolando;P205
+A524;Alberto Aracena;Luis;P031
+A525;Ward;Jared;P124
+A526;Amandes;Tom;P222
+A527;Calderon;Doreen;P513
+A528;Grullon;Elizabeth;P339
+A529;Irwin;Tom;P300
+A530;Violet Black;Mila;P076
+A531;Armstrong;Bess;P505
+A532;Day;Caroline;P345
+A533;Sullivan (II);Mark;P549
+A534;Gilsig;Jessalyn;P561
+A535;Boutine;Sara;P070
+A536;Snee;Abbi;P073
+A537;Fesperman;Briana;P202
+A538;Bickford;David;P511
+A539;Abdalla;Amir;P267
+A540;Greenquist;Brad;P208
+A541;Olomi;Ali;P502
+A542;Dempsey;Santana;P191
+A543;Hall;Mara;P353
+A544;Shah;Amol;P453
+A545;Cutaran;Samantha;P293
+A546;Forte;Katina;P031
+A547;Panthaky;Rahnuma;P239
+A548;Gaw;Lauren;P214
+A549;Huang;Tina;P349
+A550;Sharma;Shaan;P056
+A551;Morizawa;Julia;P343
+A552;Hodge;Stephanie;P117
+A553;Tinpo Lee;Andrew;P284
+A554;Lawlor;Michael;P524
+A555;Murphy;Michelle;P439
+A556;Morris;Garrett;P237
+A557;Floyd;Tiwana;P037
+A558;Henesey;Serah;P407
+A559;Johnson;Gayla;P148
+A560;Brown;Marquise;P046
+A561;Williams;Savannah;P472
+A562;Walburg;Jon;P448
+A563;Silverman;Jonathan;P476
+A564;Evelina Martinez;Graciella;P031
+A565;Pinnock;Danielle;P311
+A566;Couillard;Kathryn;P439
+A567;Moses;Dushawn;P525
+A568;Day;Caroline;P345
+A569;Boutine;Sara;P070
+A570;Todd;Johnny;P336
+A571;Zakhar Perez;Taylor;P091
+A572;Stafford;Nancy;P085
+A573;Rhimes;Harper;P215
+A574;Rahimi;Medalion;P576
+A575;Turner;Stacey;P112
+A576;Comer;Courtney;P464
+A577;Cruz;Melanie;P119

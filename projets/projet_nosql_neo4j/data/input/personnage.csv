@@ -1,0 +1,576 @@
+id_personnage;nom_prenom_personnage
+P001;Abby Whelan
+P002;Charlie
+P003;Cyrus Beene
+P004;David Rosen
+P005;Diego Huck Muñoz
+P006;Elizabeth North
+P007;Fitzgerald Grant
+P008;Harrison Wright
+P010;Jake Ballard
+P011;Marcus Walker
+P012;Mellie Grant
+P013;Olivia Pope
+P014;Quinn Perkins
+P015;Rowan Pope
+P016;Stephen Finch
+P017;Vanessa
+P018;Acolyte
+P019;Adnan Salif
+P020;Agent
+P021;Agent 1
+P022;Agent Alvarez
+P023;Agent Bryce
+P024;Agent des services secrets
+P025;Agent des services secrets
+P026;Agent des services secrets
+P027;Agent des services secrets
+P028;Agent des services secrets
+P029;Agent des Servies Secrets
+P030;Agent du B613
+P031;Agent du service secret
+P032;Agent du service secret
+P033;Agent du service secret
+P034;Agent Fielding
+P035;Agent Laura Kenney
+P036;Agent Miller
+P037;Agent principal
+P038;Agent Rudy
+P039;Agent Sam
+P040;Agent SS Alex Radstone
+P041;Agent X du B613
+P042;Aide
+P043;Aide
+P044;Aide du Sénateur Harding
+P045;Alex Vargas
+P046;Alisha
+P047;Alison Becker
+P048;Alissa
+P049;Amanda
+P050;Amanda Collingsworth
+P051;Amanda Tanner
+P052;Ambassadeur Marashi
+P053;Amber
+P054;Amber
+P055;Amiral Hawley
+P056;Anchor
+P057;Andrew Mackleson
+P058;Andrew Nichols
+P059;Angela Raines
+P060;Angela Webster
+P061;Anna Gordon
+P062;Annalise Keating
+P063;Anne Beddoes
+P064;Anne Pierce
+P065;Annie Stanner
+P066;Arthur Artie Hornbacher,
+P067;Ashley
+P068;Ashley
+P069;Assistant
+P070;Assistante de Fitz
+P071;Attorney General Susan Sawyer
+P072;Audrey Campo
+P073;Autumn
+P074;Baker
+P075;Barry
+P076;Bébé Robin
+P077;Bébé Robin
+P078;Becky
+P079;Becky Flynn
+P080;Belle-mère de Gavin
+P081;Betsy Ray
+P082;Big Jerry
+P083;Billy Chambers
+P084;Billy Joe Lee
+P085;BNC Anchor
+P086;Brad Loeb
+P087;Brenda Swan
+P088;Brent Marcus
+P089;Britta Kagen
+P090;Brooke Foster
+P091;Calvin
+P092;Candace Marcus
+P093;Captain Jake Ballard
+P094;Cardinal Suarez
+P095;Carla
+P096;Carly Weston
+P097;Carol
+P098;Carol
+P099;Carolina Flores
+P100;Célébrant de mariage
+P101;Chairman of Joint Chiefs
+P102;Charla
+P103;Charles
+P104;Charlie
+P105;Charlotte
+P106;Charlotte Reid
+P107;Chef
+P108;Chef de la sécurité
+P109;Chelsea
+P110;Chris Armstrong
+P111;Civilian
+P112;Claire
+P113;Claire Keating
+P114;Clare Tucker
+P115;Clarence Parker
+P116;Clark
+P117;Clerk
+P118;Clerk
+P119;Colonel Molly Fleisher
+P120;Colonel Ted Jessup
+P121;Copine de l'internat
+P122;Corinne Stark
+P123;Cpt Weaver
+P124;Cpt. Stevens
+P125;Crosby
+P126;Curtis Pryce
+P127;Dale
+P128;Dan Danzig
+P129;Dana
+P130;Daniel
+P131;Daniel Douglas Langston
+P132;David Rosen
+P133;Debora Clarkson
+P134;Defense Secretary
+P135;Député Jim Struthers
+P136;Député Josephine Marcus
+P137;Députée Josephine Marcus
+P138;Députée Samantha Dandridge
+P139;Détective du FBI
+P140;Détenu
+P141;Dignitaire bandari
+P142;Directeur adjoint de la NSA
+P143;Directeur de la CIA
+P144;Directeur de la CIA Lowry
+P145;Directeur du FBI Foster
+P146;Directeur du service secret
+P147;Directrice du service secret
+P148;Directrice NSA Ramirez
+P149;Docteur
+P150;Docteur
+P151;Docteur de la Maison Blanche
+P152;Doctor
+P153;Dominic Bell
+P154;Don Kovach
+P155;Don Watson
+P156;Donny Logan
+P157;Doris
+P158;Doug Morton
+P159;Dr Murray Levine
+P160;Dr. Carroll
+P161;Dr. Clarence Walters
+P162;Dr. Naveen Patel
+P163;Dr. Walker
+P164;Earnest Pundit
+P165;Edison Davis
+P166;Elaine
+P167;Elaine Day
+P168;Elderly Clerk
+P169;Elise
+P170;Elizabeth North
+P171;Employé
+P172;Ensign Martin
+P173;Eric Brooks
+P174;Erin
+P175;Erin Brill
+P176;Ethan
+P177;Etrangère
+P178;Etrangère  2
+P179;Etrangère  3
+P180;Expert geignarde
+P181;Expert tempêtes
+P182;Farshad Khansari
+P183;FBI Director Foster
+P184;FBI Schmo
+P185;Federal judge
+P186;Felipe Flores
+P187;Femme d'entreprise
+P188;Femme Iranienne
+P189;Fenton Glackland
+P190;Fern
+P191;Filiz
+P193;Fitz's Assistant
+P194;Francesca Hunter
+P195;Francisco Vargas
+P196;Frank Holland
+P197;Frankie Vargas
+P198;Franklin Russell
+P199;Franklin Russell
+P200;Freddy Brock
+P201;Garde
+P202;Garde de couleur
+P203;Gardien de prison
+P204;Garrett Cole
+P205;Gary Francis
+P206;Gavin Mitchell
+P207;Gavin Price
+P208;Général Acevedo
+P209;Général Diane Peters
+P210;General Florez
+P211;George Reed
+P212;Gerald Stillman
+P213;Gideon Wallace
+P214;Gillian
+P215;Girl 1
+P216;Gouverneur Alden McKay
+P217;Gouverneur Andrew Nichols
+P218;Gouverneur Bill Wagner
+P219;Gouverneur Francisco Vargas
+P220;Gouverneur Kelly Rauch
+P221;Gouverneur Samuel Reston
+P222;Governor Reston
+P223;Governor Samuel Reston
+P224;Grayden Osborne
+P225;Guarde
+P226;Gus
+P227;Hal
+P228;Hal Rimbeau
+P229;Hank Tanner
+P230;Hannah
+P231;Hannah
+P232;Hannah Taylor
+P233;Harmony
+P234;Harold Pierce
+P235;Harriet
+P236;Hayley
+P237;Hector
+P238;Helen Fisher
+P239;Helena Young
+P240;Henry Sparks
+P241;Hollis Doyle
+P242;Holly
+P243;Homme riche et effrayant
+P244;Hostess
+P245;Howie
+P246;Ian McLeod
+P247;Ilya
+P248;Infirmière
+P249;Infirmière
+P250;Interviewer
+P251;Irene Averna
+P252;Ivan
+P253;Jake Ballard
+P254;Jake Weston
+P255;James
+P256;James Elliot
+P257;James Novak
+P258;Jane Powell
+P259;Janet
+P260;Janet Beene
+P261;Janet Holland
+P262;Javi
+P263;Javi
+P264;Jeanine
+P265;Jeannine
+P266;Jeannine Locke
+P267;Jeff
+P268;Jeffrey McDougal
+P269;Jenna Newhall
+P270;Jennifer
+P271;Jennifer Fields
+P272;Jennifer Price
+P273;Jeremy Winslow
+P274;Jerry
+P275;Jerry Grant Jr.
+P276;Jesse Tyler
+P277;Jessica
+P278;Jessica
+P279;Jeune femme
+P280;Jim Grefski
+P281;Jimmy Kimmel
+P282;Joan Reston
+P283;John Randolph
+P284;Josh Stewart
+P285;Journaliste
+P286;Journaliste
+P287;Journaliste
+P288;Journaliste
+P289;Journaliste Ashley
+P290;Journaliste Jim
+P291;Journaliste Julia
+P292;Journaliste Peter
+P293;Journaliste Stacy
+P294;Judge Leo Theroux
+P295;Judge Milton Kalev
+P296;Judge Murray Randall
+P297;Judge Thompson
+P298;Juge Eleanor Gaynes
+P299;Juge en chef de la Cour suprême
+P300;Justice Spivey
+P301;Karen Grant
+P302;Karen Grant
+P303;Kate
+P304;Kate
+P305;Katrine Winslow
+P306;Kelly
+P307;Kevin
+P308;Kim
+P309;Kimberly Mitchell
+P310;Kostya Pasternak
+P311;Krystal
+P312;L'agent des services secrets
+P313;L'agent des services secrets
+P314;Lance McCollum
+P315;Landlord
+P316;Larry Thomas
+P317;L'assistante de Mellie
+P318;Lauren
+P319;Lauren Wellman
+P320;Le père de Desiree
+P321;Le prince
+P322;Le tireur d'élite
+P323;Lee Ann Howard
+P324;Leo Bergen
+P325;Leo Morgen
+P326;Leslie Tanner
+P327;L'homme effrayant
+P328;Libraire nerveuse
+P329;Licorice
+P330;Lillian Forrester
+P331;Linda Sullivan
+P332;Lisa
+P333;Lisa
+P334;Lisa Campbell
+P335;Lisa Elliot
+P336;Livreur
+P337;Lizzie Bear
+P338;Lonnie Mencken
+P339;Lora
+P340;Louis
+P341;Louise Baker
+P342;Lowry
+P343;Lt. Alex Nealy
+P344;Lucy
+P345;Lucy Riccio
+P346;Lui-même
+P347;Luna Vargas
+P348;Mackenzie Miller
+P349;Madeline Stewart
+P350;Maggie Andrews
+P351;Maire
+P352;Maire Verrano
+P353;Major Général Owens
+P354;Major Morales
+P355;Mallory Blanchard
+P356;Mara
+P357;Marcus Collins
+P358;Marcus Walker
+P359;Margaret Halverson
+P360;Margot Ross
+P361;Mariah Peters
+P362;Marine Juror
+P363;Marion
+P364;Martin
+P365;Marv
+P366;Marvin Colgate
+P367;Mary
+P368;Mary Ann
+P369;Mary Nesbitt
+P370;Mary Peterson
+P371;Maya Lewis
+P372;Maybelle Doyle
+P373;Médecin légiste
+P374;Meg
+P375;Meghan
+P376;Mellie Grant
+P377;Melvin Feen
+P378;Membre du Congrès de Californie
+P379;Membre du Congrès de l'Alaska
+P380;Membre du Congrès de l'Iowa
+P381;Membre du Congrès du Nouveau Méxique
+P382;Mère au foyer
+P383;Michael
+P384;Michaela Pratt
+P385;Mickey
+P386;Mike
+P387;Mike Sylva
+P388;Mike Waters
+P389;Mitchell Heatherton
+P390;Moira O'Donnell
+P391;Molly Ackerman
+P392;Monica Salinas
+P393;Morris Elcott
+P394;Mrs. Ambruso
+P395;Mrs. Verrano
+P396;Nancy Drake
+P397;Navid Turani
+P398;Nelson McClintock
+P399;Nelson Parker
+P400;Nicholas
+P401;Nigel Sarnoff
+P402;Noah
+P403;Noah Baker
+P404;Noah Elliot
+P405;Nora Peterson
+P406;Norm
+P407;Nouvelle présentatrice
+P408;Officier
+P409;Olivia jeune
+P410;Olivia Pope jeune
+P411;Otto
+P412;Pat
+P413;Pat Wexler
+P414;Patrick Keating
+P415;Patty Snell
+P416;Paul Gray
+P417;Peter
+P418;Peter
+P419;Peter Foster
+P420;Petro
+P421;Peus
+P422;Phil Stanner
+P423;Philly Cop
+P424;Phyllis Hayes
+P425;Policier
+P426;Politicienne locale
+P427;Premier Ministre turque
+P428;Présentateur
+P429;Présentateur BNC
+P430;Présentatrice
+P431;Présentatrice BNC
+P432;Présentatrice du câble
+P433;Présentatrice journal TV
+P434;President Rashad
+P435;Président Razani
+P436;Prince Richard
+P437;Princesse Emily
+P438;Procureur
+P439;Productrice
+P440;Productrice
+P441;Productrice
+P442;Propriétaire du magasin
+P443;psychologist
+P444;Rachel
+P445;Rachel
+P446;Rachel Moss
+P447;Randolph Boles
+P448;Réceptionniste
+P449;Rédacteur
+P450;Reed Wallace
+P451;Reine Isabel
+P452;Reporter
+P453;Reporter 1
+P454;Reporter 1
+P455;Reporter 2
+P456;Reporter 2
+P457;Reporter 3
+P458;Reporter Ashley
+P459;Reporter Carol
+P460;Reporter espagnole
+P461;Reporter Jessica
+P462;Reporter Lang
+P463;Reporter Leslie
+P464;Reporter Maria Dawson
+P465;Reporter Martin
+P466;Reporter Peter
+P467;Reporter Sal
+P468;Reporter sérieux
+P469;Reporter Stacy
+P470;Reporter tabloïd
+P471;Reporter Trina
+P472;Rhonda
+P473;Richard Keckler
+P474;Richard Moss
+P475;Rick Strauss
+P476;Robert Bacall
+P477;Roger
+P478;Rona
+P479;Ronnie
+P480;Ronnie Miller
+P481;Rosalie
+P482;Rosalyn Mendez
+P483;Rose
+P484;Rose
+P485;Rose Carpenter
+P486;Rowan Pope
+P487;Ruby
+P488;Sales Clerk
+P489;Sally Langston
+P490;Samantha Ruland
+P491;Samuel Reston
+P492;Sanders Black
+P493;Sandra
+P494;Sandra Harding
+P495;Sandy Harding
+P496;Sarah Stanner
+P497;Sean
+P498;Secouriste
+P499;Secrétaire bandari
+P500;Secrétaire sociale
+P501;Secretary of State
+P502;Security Detail
+P503;Sén. Peter Caldwell
+P504;Sénateur Allen
+P505;Sénateur Diane Greenwald
+P506;Sénateur Eakins
+P507;Sénateur Edison Davis
+P508;Sénateur Gibson
+P509;Senateur Joseph Walton
+P510;Sénateur Martin Lin
+P511;Sénateur Michaels
+P512;Sénateur Richard Meyers
+P513;Senateur Susan Klein
+P514;Senator Bryan Rich
+P515;Senator Edison Davis
+P516;Senator Jacob Shaw
+P517;Senator Schumann
+P518;Senator Watson
+P519;Sénatrice
+P520;Sénatrice
+P521;Sénatrice Linda Moskowitz
+P522;Sénatrice Patty Bates
+P523;Sergent armé
+P524;Sergent Brian Ladd
+P525;Service secret
+P526;Sharon Marquette
+P527;Shelby Moss
+P528;Shelley Meyers
+P529;Sheref
+P530;Sidney
+P531;Simon Scott
+P532;Skip Pierce
+P533;Sommelier Eric
+P534;SS Agent Alex Radstone
+P535;Stephanie Vaughn
+P536;Stephen Finch
+P537;Steve Doherty
+P538;Sully St. James
+P539;Supporter
+P540;Susan Osborne
+P541;Susan Ross
+P542;Susanne Thomas
+P543;Tamara Connors
+P544;Tammy Blakely
+P545;Tanner Shaw
+P546;Teresa Dunn
+P547;The Fixer
+P548;Theodore
+P549;Tim Waterbend
+P550;Tom
+P551;Tom Larsen
+P552;Tommy
+P553;Traducteur de Fitz
+P554;Traducteur de Susan
+P555;Traductrice d'Olivia
+P556;Travis Harding
+P557;Trixie
+P558;Un agent
+P559;Un agent de la NSA
+P560;Une agent de la NSA
+P561;Vanessa
+P562;Vanessa Ballard
+P563;Vanessa Chandler
+P564;Vanessa Moss
+P565;Vanessa Moss
+P566;Verna Thornton
+P567;Vice President Sally Langston
+P568;Vice-Présidente Sally Langston
+P569;Vincent Ambruso
+P570;Virgil Punkett
+P571;Walter Straker-Nesbit
+P572;Warden
+P573;Wayne Turner
+P574;Will Caldwell
+P575;William Granville
+P576;Yasmeen
+P577;Zeke
