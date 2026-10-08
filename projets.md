@@ -321,3 +321,45 @@ Ce projet m’a permis de développer des compétences en :
 ## 📚 Contexte académique
 
 Projet réalisé dans le cadre de la SAE6.01-SIG — BUT3 VCOD.
+
+
+---
+
+## Projet Migration de données PostgreSQL → Neo4j
+
+### Migration et modélisation de données dans une base orientée graphe
+
+Projet réalisé dans le cadre du **BUT3 VCOD**, ayant pour objectif de concevoir une chaîne de migration de données depuis une base relationnelle **PostgreSQL** vers **Neo4j**, une base de données NoSQL orientée graphe.
+
+### 🔧 Réalisations
+
+* Extraction et lecture de données au format **CSV**
+* Transformation des données avec **Python / PySpark**
+* Création de **DataFrames et vues SQL temporaires**
+* Réalisation de jointures SQL entre différentes sources
+* Génération d'un fichier CSV consolidé
+* Modélisation des données sous forme de **nœuds et relations**
+* Import des données dans **Neo4j**
+* Création de requêtes **Cypher**
+* Exploration et visualisation du graphe dans Neo4j
+
+### 📊 Résultat : Visualisation du graphe
+
+Après l'importation des données, les informations sont représentées dans **Neo4j sous forme de graphe**, permettant de visualiser les différentes entités ainsi que les relations qui les relient.
+
+Voici des visualisations des graphes obtenus dans Neo4j :
+![Visualisation du graphe Neo4j](projets/projet_nosql_neo4j/img/graph0.jpg)
+
+![Visualisation du graphe Neo4j](projets/projet_nosql_neo4j/img/graph1.jpg)
+
+![Visualisation du graphe Neo4j](projets/projet_nosql_neo4j/img/graph2.jpg)
+
+![Visualisation du graphe Neo4j](projets/projet_nosql_neo4j/img/graph3.jpg)
+
+### 💡 Compétences
+
+**Data Engineering · ETL · Migration de données · SQL · NoSQL · Modélisation de données · Bases de données orientées graphe · PySpark**
+
+### 🎯 Ce que j'ai appris
+
+Ce projet m'a permis de travailler sur l'ensemble d'une chaîne de traitement de données, depuis leur préparation et transformation jusqu'à leur intégration dans une architecture NoSQL orientée graphe. Il m'a également permis de comprendre les différences entre une modélisation relationnelle et une modélisation basée sur les relations entre entités.
