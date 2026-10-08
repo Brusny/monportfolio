@@ -354,8 +354,6 @@ Voici des visualisations des graphes obtenus dans Neo4j :
 
 ![Visualisation du graphe Neo4j](projets/projet_nosql_neo4j/img/graph2.jpg)
 
-![Visualisation du graphe Neo4j](projets/projet_nosql_neo4j/img/graph3.jpg)
-
 ### 💡 Compétences
 
 **Data Engineering · ETL · Migration de données · SQL · NoSQL · Modélisation de données · Bases de données orientées graphe · PySpark**
