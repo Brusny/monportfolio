@@ -354,10 +354,6 @@ Voici des visualisations des graphes obtenus dans Neo4j :
 
 ![Visualisation du graphe Neo4j](projets/projet_nosql_neo4j/img/graph2.jpg)
 
-### 💡 Compétences
-
-**Data Engineering · ETL · Migration de données · SQL · NoSQL · Modélisation de données · Bases de données orientées graphe · PySpark**
-
 ### 🎯 Ce que j'ai appris
 
 Ce projet m'a permis de travailler sur l'ensemble d'une chaîne de traitement de données, depuis leur préparation et transformation jusqu'à leur intégration dans une architecture NoSQL orientée graphe. Il m'a également permis de comprendre les différences entre une modélisation relationnelle et une modélisation basée sur les relations entre entités.
