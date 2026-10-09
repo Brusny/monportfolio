@@ -86,7 +86,7 @@ Création de **tableaux de bord Power BI** permettant :
 
 ## Projet Data Integration ETL
 
-📅 **Date :** 2026  
+📅 **Date :** Mars 2026  
 🏫 **Université :** Université Toulouse Capitole  
 📍 **Lieu :** Toulouse, France  
 
