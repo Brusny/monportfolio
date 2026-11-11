@@ -34,13 +34,9 @@ Le premier volet porte sur la conception d'un environnement décisionnel reposan
 
 Il comprend la mise en place d'un entrepôt de données, la création de magasins de données dédiés à différents axes d'analyse ainsi que l'exploitation des données avec Power BI.
 
-### Architecture SAD
-![SAD](img/SAD.png)
-
 ### Réalisations
 
 - Conception de l'entrepôt de données sous Oracle.
-  ![DWH](img/MobiPass_ED_MCD.jpg)
 - Développement de scripts SQL pour la gestion et l'alimentation de l'entrepôt.
 - Création de deux magasins de données :
   - `md_locations` : magasin de données dédié aux locations.
@@ -127,31 +123,33 @@ Les contrôles portent notamment sur les volumes de données, les règles de ges
 
 ## 📸 Résultats et réalisations
 
-### 1. Entrepôt de données et Data Marts – Oracle
+### 1. Architecture SAD de MobiPass
 
-*Insérer ici les captures d'écran du modèle de données, des scripts SQL et des magasins de données.*
+![SAD](img/SAD.png)
 
-![Architecture de l'entrepôt Oracle](images/oracle-datawarehouse.png)
+### 2. Entrepôt de données et Data Marts – Oracle
 
-### 2. Tableaux de bord Power BI
+![DWH](img/MobiPass_ED_MCD.jpg)
+
+### 3. Tableaux de bord Power BI
 
 *Insérer ici les captures des rapports et visualisations réalisés avec Power BI.*
 
 ![Tableau de bord Power BI](images/powerbi-dashboard.png)
 
-### 3. Entrepôt de données – SQL Server
+### 4. Entrepôt de données – SQL Server
 
 *Insérer ici les captures des tables, relations et résultats des contrôles SQL.*
 
 ![Entrepôt SQL Server](images/sqlserver-datawarehouse.png)
 
-### 4. Cube OLAP – SSAS
+### 5. Cube OLAP – SSAS
 
 *Insérer ici les captures du cube multidimensionnel, de ses dimensions et de ses mesures.*
 
 ![Cube OLAP SSAS](images/ssas-cube.png)
 
-### 5. Analyses MDX
+### 6. Analyses MDX
 
 *Insérer ici les résultats des requêtes MDX et les analyses multidimensionnelles.*
 
