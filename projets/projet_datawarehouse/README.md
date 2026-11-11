@@ -34,9 +34,13 @@ Le premier volet porte sur la conception d'un environnement décisionnel reposan
 
 Il comprend la mise en place d'un entrepôt de données, la création de magasins de données dédiés à différents axes d'analyse ainsi que l'exploitation des données avec Power BI.
 
+### Architecture SAD
+![SAD](img/SAD.png)
+
 ### Réalisations
 
 - Conception de l'entrepôt de données sous Oracle.
+  ![DWH](img/MobiPass_ED_MCD.jpg)
 - Développement de scripts SQL pour la gestion et l'alimentation de l'entrepôt.
 - Création de deux magasins de données :
   - `md_locations` : magasin de données dédié aux locations.
