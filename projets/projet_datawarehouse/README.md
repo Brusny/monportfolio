@@ -131,6 +131,9 @@ Les contrôles portent notamment sur les volumes de données, les règles de ges
 
 ![DWH](img/MobiPass_ED_MCD.jpg)
 
+*Magasin de données Location*
+![DWH](img/Location_MD.png)
+
 ### 3. Tableaux de bord Power BI
 
 *Insérer ici les captures des rapports et visualisations réalisés avec Power BI.*
